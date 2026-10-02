@@ -1,4 +1,5 @@
 from pathlib import Path
+import pandas as pd
 
 # Since there are many doubled folders, we checked first and used the one where it has the most p10 patients
 def count_folders(directory):
@@ -26,6 +27,17 @@ def check_num_dcm_report(path):
     print(f"Total DICOM images: {total_dcm}")
     print(f"Total reports: {total_reports}")
 
+def patients_with_more_than_1_txt(path):
+    patients = []
+    for patient in sorted(path.iterdir()):
+        if not patient.is_dir():
+            continue
+        num_txt = sum(1 for file in patient.rglob("*.txt") if file.is_file())
+        if num_txt > 1:
+            patients.append(patient.name)
+    return len(patients), patients
+
+
 
 if __name__ == "__main__":
     path1 = Path("/mnt/c/Users/Zila/Downloads/BN5212/MIMIC-CXR/p10/p10/")
@@ -34,5 +46,10 @@ if __name__ == "__main__":
     # print("Folders in path2:", count_folders(path2))
     # Folders in path1: 1000
     # Folders in path2: 1000
-    check_num_dcm_report(path1)
+    # check_num_dcm_report(path1)
+    count, patient_list = patients_with_more_than_1_txt(path1)
+    print(f"Patients with more than 1 text file in path1: {count}")
+    print("Patient names:", patient_list)
+    patient_list = pd.DataFrame(patient_list, columns=["Patient"])
+    patient_list.to_csv("patients_with_more_than_1_txt.csv", index=False)
 

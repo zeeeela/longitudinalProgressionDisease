@@ -1,6 +1,5 @@
 #This script is like Bibit, Roger, and Zang Zheng's code in BN5212_Custom_Disease_Loader.ipynb to scan for diseases in the MIMIC-CXR dataset
 
-
 import argparse
 import csv
 import re
@@ -182,11 +181,34 @@ def report_identifiers(path):
     return {"subject_id": subject, "study_id": study, "report_path": str(path)}
 
 
+def read_patient_ids(path):
+    with path.open(encoding="utf-8-sig", newline="") as f:
+        reader = csv.DictReader(f)
+        column = next((c for c in ("Patient", "subject_id")
+                       if c in (reader.fieldnames or [])), None)
+        if column is None:
+            raise ValueError("Patient CSV must contain 'Patient' or 'subject_id'.")
+        selected = set()
+        for row_number, row in enumerate(reader, 2):
+            value = (row.get(column) or "").strip()
+            if not value:
+                continue
+            match = re.fullmatch(r"[pP]?(\d{8})", value)
+            if not match:
+                raise ValueError(f"Invalid patient ID at CSV row {row_number}: {value!r}")
+            selected.add(match.group(1))
+    if not selected:
+        raise ValueError("Patient CSV contains no patient IDs.")
+    return selected
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--vocab", type=Path, required=True)
     parser.add_argument("--reports", type=Path, nargs="+", required=True)
     parser.add_argument("--synonyms", type=Path)
+    parser.add_argument("--patients", type=Path,
+                        help="CSV of patient IDs to include (Patient or subject_id column)")
     parser.add_argument("--out", type=Path, default=Path("cxr_labels"))
     args = parser.parse_args()
     diseases = read_vocabulary(args.vocab)
@@ -196,8 +218,16 @@ def main():
             raise FileNotFoundError(f"Report directory does not exist: {root}")
     paths = sorted({p.resolve() for root in args.reports
                     for p in root.rglob("*.txt") if p.is_file()})
+    if args.patients:
+        selected = read_patient_ids(args.patients)
+        paths = [p for p in paths if report_identifiers(p)["subject_id"] in selected]
+        found = {report_identifiers(p)["subject_id"] for p in paths}
+        missing = sorted(selected - found)
+        print(f"Patient filter: {len(selected)} requested, {len(found)} with reports found.")
+        if missing:
+            print("Requested IDs with no reports found: " + ", ".join(missing))
     if not paths:
-        raise ValueError("No .txt reports found under the provided directories.")
+        raise ValueError("No .txt reports found matching the provided directories/patient filter.")
     args.out.mkdir(parents=True, exist_ok=True)
     common = ["subject_id", "study_id", "report_path"]
     columns = {
