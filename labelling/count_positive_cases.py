@@ -115,13 +115,13 @@ def count_cases(labels_path, reviews_path=None, vocab_path=None):
     ]
 
 
-def main():
+def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--labels", type=Path, required=True)
     parser.add_argument("--reviews", type=Path, help="Review queue with your edited reviewed_state values")
     parser.add_argument("--vocab", type=Path, help="Include vocabulary diseases with zero positive cases")
     parser.add_argument("--out", type=Path, default=Path("disease_positive_counts.csv"))
-    args = parser.parse_args()
+    args = parser.parse_args(argv)
     output = args.out.resolve()
     if output in {p.resolve() for p in (args.labels, args.reviews, args.vocab) if p}:
         parser.error("Output must differ from the input files.")

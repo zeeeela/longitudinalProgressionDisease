@@ -1,0 +1,16 @@
+disease,method,improving,stable,worsening,mixed,no_comparison
+Pleural effusion,selected_mode,94,140,180,27,1910
+Pleural effusion,strict,59,106,130,30,2026
+Pleural effusion,friend_report_wide,210,782,326,300,733
+Cardiomegaly,selected_mode,17,406,39,2,1887
+Cardiomegaly,strict,11,273,20,4,2043
+Cardiomegaly,friend_report_wide,210,782,326,300,733
+Edema,selected_mode,100,40,87,8,2116
+Edema,strict,54,26,43,6,2222
+Edema,friend_report_wide,210,782,326,300,733
+Pneumonia,selected_mode,41,11,77,1,2221
+Pneumonia,strict,21,8,39,1,2282
+Pneumonia,friend_report_wide,210,782,326,300,733
+Pulmonary edema,selected_mode,93,41,84,7,2126
+Pulmonary edema,strict,48,23,34,5,2241
+Pulmonary edema,friend_report_wide,210,782,326,300,733
