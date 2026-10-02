@@ -331,7 +331,7 @@ def apply_prior_positive_review_rule(label, subject_id, study_id, interval, hist
     return label
 
 
-def main():
+def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--vocab", type=Path, required=True)
     parser.add_argument("--reports", type=Path, nargs="+", required=True)
@@ -345,7 +345,7 @@ def main():
                         help="Study dates CSV/CSV.gz; otherwise read dates from local DICOM headers")
     parser.add_argument("--reviewed-labels", type=Path,
                         help="Previous review CSV; explicit manual states override automatic history")
-    args = parser.parse_args()
+    args = parser.parse_args(argv)
     diseases = read_vocabulary(args.vocab)
     find_matches, engine = build_matcher(diseases, args.synonyms)
     for root in args.reports:

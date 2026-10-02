@@ -1,0 +1,3494 @@
+disease,positive_patient_count,positive_report_count
+Pleural effusion,167,415
+Cardiomegaly,155,364
+Pneumonia,128,220
+Pulmonary edema,119,276
+Edema,74,105
+Fluid overload,39,44
+Fractures,29,61
+Emphysema,28,54
+Scoliosis,18,33
+Hernia,14,28
+Hemorrhage,11,14
+Term,8,8
+Loss of height,7,7
+Pulmonary fibrosis,6,18
+Hypertension,6,6
+Aspiration pneumonia,5,5
+Kyphosis,4,6
+Bronchiectasis,4,4
+Bronchitis,3,3
+Heart failure,3,3
+Pulmonary embolism,3,3
+Pulmonary hypertension,3,3
+Ileus,2,3
+Sarcoidosis,2,3
+Spondylosis,2,3
+Cough,2,2
+Goiter,2,2
+Hypersensitivity pneumonitis,2,2
+Pain,2,2
+Tachycardia,2,2
+Cervical rib,1,2
+Cryptogenic organizing pneumonia,1,2
+46,1,1
+Acute pulmonary edema,1,1
+Aortic dissection,1,1
+Ascites,1,1
+Bronchospasm,1,1
+Cardiomyopathy,1,1
+Fever,1,1
+Hand,1,1
+Intestinal obstruction,1,1
+Intussusception,1,1
+Myelodysplastic syndrome,1,1
+Pectus excavatum,1,1
+Sepsis,1,1
+Septic embolism,1,1
+Splenomegaly,1,1
+Vomiting,1,1
+Wheezing,1,1
+(Idiopathic) normal pressure hydrocephalus,0,0
+3-methylglutaconic aciduria*,0,0
+ABO isoimmunization of newborn,0,0
+ANCA-associated vasculitides*,0,0
+Abdominal aortic aneurysm,0,0
+Abdominal migraine*,0,0
+Abdominal or pelvic swelling,0,0
+Abdominal pain,0,0
+Abdominal pregnancy,0,0
+Abdominal rigidity,0,0
+Abdominal tenderness,0,0
+Abnormal Papanicolaou smear,0,0
+Abnormal auditory function study,0,0
+Abnormal blood-gas level,0,0
+Abnormal bowel sounds and visible peristalsis,0,0
+Abnormal cardiac sounds,0,0
+Abnormal coagulation profile,0,0
+Abnormal cytological findings in specimens from genital organs,0,0
+Abnormal digit morphology,0,0
+Abnormal electrocardiogram [ECG] [EKG],0,0
+Abnormal electroencephalogram [EEG],0,0
+Abnormal findings on antenatal screening of mother,0,0
+Abnormal findings on diagnostic imaging of heart and coronary circulation,0,0
+Abnormal findings on diagnostic imaging of lung,0,0
+Abnormal findings on diagnostic imaging of skull and head,0,0
+Abnormal findings on diagnostic imaging of the digestive tract,0,0
+Abnormal findings on diagnostic test of central nervous system,0,0
+Abnormal findings on examination of blood,0,0
+Abnormal findings on neonatal screening,0,0
+Abnormal findings on radiological and other examination of genitourinary organs,0,0
+Abnormal forces of labor,0,0
+Abnormal glucose,0,0
+Abnormal glucose complicating pregnancy,0,0
+Abnormal head movements*,0,0
+Abnormal innervation syndrome of eyelid,0,0
+Abnormal intraocular pressure,0,0
+Abnormal involuntary movements,0,0
+Abnormal level of blood mineral*,0,0
+Abnormal levels of other serum enzymes,0,0
+Abnormal mammogram,0,0
+Abnormal plasma viscosity*,0,0
+Abnormal posture,0,0
+Abnormal products of conception,0,0
+Abnormal reflex,0,0
+Abnormal results of cardiovascular function studies,0,0
+Abnormal results of endocrine function studies (excluding thyroid),0,0
+Abnormal results of function studies of eye,0,0
+Abnormal results of function studies of peripheral nervous system,0,0
+Abnormal results of function study of kidney,0,0
+Abnormal results of pulmonary function studies,0,0
+Abnormal serum enzyme levels,0,0
+Abnormal sputum,0,0
+Abnormal thyroid function studies,0,0
+Abnormal tumor markers,0,0
+Abnormal vestibular function study,0,0
+Abnormal weight gain,0,0
+Abnormal weight loss,0,0
+Abnormalities of breathing,0,0
+Abnormalities of ear ossicles,0,0
+Abnormalities of gravid uterus,0,0
+Abnormalities of heart beat,0,0
+Abnormalities of size and form of teeth,0,0
+Abnormalities of the hair,0,0
+Abnormality in fetal heart rate and rhythm complicating labor and delivery*,0,0
+Abnormality in fetal heart rate or rhythm,0,0
+Abnormality of albumin*,0,0
+Abnormality of alphafetoprotein*,0,0
+Abnormality of gait,0,0
+Abnormality of gait and mobility,0,0
+Abnormality of globulin*,0,0
+Abnormality of red blood cells,0,0
+Abnormality of secretion of gastrin,0,0
+Abnormality of secretion of glucagon,0,0
+Abnormality of the lymph nodes,0,0
+Abnormality of the peritoneum,0,0
+Abnormality of the urachus,0,0
+Abnormality of urination,0,0
+Abscess of eyelid,0,0
+Abscess of liver,0,0
+Abscess of lung and mediastinum,0,0
+Abscess of spleen*,0,0
+Abscess of thymus,0,0
+Abscess or ulceration of vulva,0,0
+Absence of iris [Aniridia],0,0
+Abuse of non-psychoactive substances*,0,0
+Acantholytic Disorders*,0,0
+Acanthosis nigricans,0,0
+Accessory auricle,0,0
+Accessory kidney*,0,0
+Accessory lobe of lung*,0,0
+Accommodative esotropia,0,0
+Acetonuria,0,0
+Achalasia of cardia,0,0
+Achilles tendinitis,0,0
+Achlorhydria,0,0
+Achondroplasia*,0,0
+Acidosis,0,0
+Acne,0,0
+Acquired atrophy of ovary and fallopian tube,0,0
+Acquired clawhand,0,0
+Acquired clubhand,0,0
+Acquired coagulation factor deficiency,0,0
+Acquired deformities of fingers,0,0
+Acquired deformities of fingers and toes,0,0
+Acquired deformities of limbs,0,0
+Acquired deformities of the ankle and foot,0,0
+Acquired deformities of the forearm and hand,0,0
+Acquired deformities of toe,0,0
+Acquired periventricular cysts of newborn*,0,0
+Acquired pure red cell aplasia [erythroblastopenia],0,0
+Acromioclavicular (joint) (ligament) sprain,0,0
+Actinic keratosis,0,0
+Actinic reticuloid and actinic granuloma,0,0
+Actinomyces and Nocardia,0,0
+Activated Phosphoinositide 3-kinase Delta Syndrome [APDS],0,0
+Activated protein C resistance*,0,0
+Acute (transverse) myelitis,0,0
+Acute Pharyngitis,0,0
+Acute bronchiolitis,0,0
+Acute bronchitis,0,0
+Acute chest syndrome,0,0
+Acute cholecystitis,0,0
+Acute cough*,0,0
+Acute cystitis,0,0
+Acute dermatitis due to solar radiation,0,0
+Acute dilatation of stomach,0,0
+Acute disseminated encephalitis and encephalomyelitis (ADEM),0,0
+Acute epiglottitis,0,0
+Acute gastritis,0,0
+Acute hepatitis,0,0
+Acute hepatitis C,0,0
+Acute idiopathic pulmonary hemorrhage in infants,0,0
+Acute inflammatory pelvic disease,0,0
+Acute intermittent (hepatic) porphyria*,0,0
+Acute kidney failure,0,0
+Acute laryngitis and tracheitis,0,0
+Acute leukemia,0,0
+Acute lower respiratory infection,0,0
+Acute lymphadenitis,0,0
+Acute lymphoid leukemia,0,0
+Acute myeloid leukemia,0,0
+Acute myocardial infarction,0,0
+Acute nasopharyngitis,0,0
+Acute nephritic syndrome,0,0
+Acute obstructive laryngitis [croup],0,0
+Acute pain,0,0
+Acute pancreatitis,0,0
+Acute posthemorrhagic anemia,0,0
+Acute prostatitis,0,0
+Acute pulmonary heart disease,0,0
+Acute pyelonephritis,0,0
+Acute respiratory distress syndrome [ARDS]*,0,0
+Acute respiratory failure,0,0
+Acute sinusitis,0,0
+Acute skin changes due to ultraviolet radiation,0,0
+Acute thyroiditis,0,0
+Acute tonsillitis and adenoiditis,0,0
+Acute upper respiratory infection,0,0
+Acute vascular insufficiency of intestine,0,0
+Acute/subacute osteomyelitis,0,0
+Adenosine deaminase 2 deficiency (DADA2)*,0,0
+Adenovirus,0,0
+Adhesions and ankylosis of temporomandibular joint,0,0
+Adhesions and disruptions of iris and ciliary body,0,0
+Adhesive capsulitis of shoulder,0,0
+Adhesive middle ear disease [Glue ear],0,0
+Adrenal hyperfunction,0,0
+Adrenocortical insufficiency,0,0
+Adrenogenital disorders,0,0
+Adrenoleukodystrophy*,0,0
+Age-related cognitive decline,0,0
+Age-related macular degeneration,0,0
+Agenesis and underdevelopment of nose*,0,0
+Agenesis of ureter*,0,0
+Aggressive periodontitis,0,0
+Agoraphobia,0,0
+Ainhum,0,0
+Albinism*,0,0
+Alcohol abuse and dependence,0,0
+Alcohol use disorders,0,0
+Alcohol use during pregnancy*,0,0
+Alcoholic cardiomyopathy,0,0
+Alcoholic hepatitis,0,0
+Alcoholic liver disease,0,0
+Alkalosis,0,0
+Alkalosis of newborn*,0,0
+Allergic and dietetic gastroenteritis and colitis,0,0
+Allergic bronchopulmonary aspergillosis,0,0
+Allergic conjunctivitis,0,0
+Allergic dermatitis of eyelid,0,0
+Allergic purpura [Henoch-Schoenlein purpura],0,0
+Allergic rhinitis,0,0
+Allergic rhinitis due to food,0,0
+Allergic urticaria,0,0
+Allergies related to other diseases/symptoms,0,0
+Allergy,0,0
+Allergy to analgesic agent,0,0
+Allergy to anesthetic agent,0,0
+Allergy to antibiotic agent (excluding penicillin),0,0
+Allergy to food additives,0,0
+Allergy to fruits and vegetables,0,0
+Allergy to insects,0,0
+Allergy to narcotic agent,0,0
+Allergy to other anti-infective agents,0,0
+Allergy to radiographic dye,0,0
+Allergy to serum and vaccine,0,0
+Allergy to sulfonamides,0,0
+Alopecia,0,0
+Alopecia Areata,0,0
+Alpers disease*,0,0
+Alpha thalassemia,0,0
+Alpha-1-antitrypsin deficiency,0,0
+Alport syndrome*,0,0
+Alteration of consciousness,0,0
+Altered mental status,0,0
+Alternating esotropia,0,0
+Alternating exotropia,0,0
+Alveolar proteinosis,0,0
+Alveolitis of jaw,0,0
+Alzheimer's disease,0,0
+Amblyopia,0,0
+Amebiasis,0,0
+Amenorrhea,0,0
+Amyloidosis,0,0
+Amyotrophic lateral sclerosis [ALS],0,0
+Anal fissure,0,0
+Anaphylactic reaction,0,0
+Anaplastic large cell lymphoma,0,0
+Androgen excess*,0,0
+Androgen insensitivity syndrome,0,0
+Androgenic alopecia*,0,0
+Anemia,0,0
+Anemia due to disorders of glycolytic enzymes*,0,0
+Anemia due to pyruvate kinase deficiency*,0,0
+Anemia in newborn,0,0
+Anemia in pregnancy,0,0
+Anemia secondary to chronic diseases and conditions,0,0
+Anencephalus and similar anomalies,0,0
+Anesthesia of skin*,0,0
+Aneurysm of carotid artery,0,0
+Aneurysm of heart,0,0
+Aneurysm of iliac or artery of lower extremity,0,0
+Aneurysm of pulmonary artery,0,0
+Aneurysm or ectasia,0,0
+Angelman syndrome*,0,0
+Angina pectoris,0,0
+Angioid streaks of macula,0,0
+Angioneurotic edema,0,0
+Angle-Closure Glaucoma,0,0
+Anhidrosis,0,0
+Aniseikonia,0,0
+Anisocoria,0,0
+Anisometropia,0,0
+Ankyloglossia,0,0
+Ankylosing hyperostosis [Forestier],0,0
+Ankylosing spondylitis,0,0
+Ankylosis of joint,0,0
+Ankylosis of teeth,0,0
+Annular pancreas*,0,0
+Anodontia,0,0
+Anogenital (venereal) warts,0,0
+Anomalies of dental arch relationship,0,0
+Anomalies of intestinal fixation,0,0
+Anomalies of jaw-cranial base relationship,0,0
+Anomalies of pulmonary artery,0,0
+Anomalies of pupillary function,0,0
+Anomalies of tooth position,0,0
+Anomalous pulmonary venous return,0,0
+Anophthalmos,0,0
+Anorectal abscess,0,0
+Anorexia,0,0
+Anorexia nervosa,0,0
+Anosmia and Parosmia*,0,0
+Anoxic brain damage,0,0
+Antepartum hemorrhage,0,0
+Anterior subcapsular polar cataract,0,0
+Antiphospholipid syndrome*,0,0
+Antisocial personality disorder,0,0
+Anxiety and anxiety disorders,0,0
+Aortic aneurysm and ectasia,0,0
+Aortic arch syndrome [Takayasu's disease],0,0
+Aortic insufficiency,0,0
+Aortic stenosis,0,0
+Aortic valve disorders,0,0
+Aortopulmonary septal defect*,0,0
+Aphagia and dysphagia,0,0
+Aphakia,0,0
+Aphasia and dysphasia,0,0
+Aphonia,0,0
+Aplasia and hypoplasia of uterus,0,0
+Aplasia or hypoplasia of aorta*,0,0
+Aplasia/Hypoplasia affecting the eye,0,0
+Aplasia/Hypoplasia of the external ear,0,0
+Aplasia/hypoplasia of testis*,0,0
+Aplastic anemia,0,0
+Aplastic anemia due to drugs or other external agents*,0,0
+Apnea,0,0
+Apnea of newborn,0,0
+Apparent life threatening event in infant (ALTE),0,0
+Appendicitis,0,0
+Arcuate uterus,0,0
+Argininemia*,0,0
+Arginosuccinic aciduria*,0,0
+Arnold-Chiari syndrome*,0,0
+Aromatic L-amino acid decarboxylase deficiency (AADC definiciency)*,0,0
+Arrest of bone development or growth,0,0
+Arterial dissection,0,0
+Arterial embolism and thrombosis,0,0
+Arterial fibromuscular dysplasia*,0,0
+Arterial tortuosity syndrome*,0,0
+Arteriovenous fistula,0,0
+Arteriovenous malformation,0,0
+Arteriovenous malformation of digestive system*,0,0
+Arteriovenous malformation of precerebral or cerebral vessels*,0,0
+Arteriovenous malformation of renal vessel*,0,0
+Arthralgia of temporomandibular joint,0,0
+Arthrogryposis multiplex congenita*,0,0
+Articular cartilage disorder,0,0
+Asperger's syndrome*,0,0
+Aspergillosis,0,0
+Asphyxia and hypoxemia,0,0
+Asplenia*,0,0
+Asthma,0,0
+Astigmatism,0,0
+Ataxic cerebral palsy*,0,0
+Atelectasis of newborn,0,0
+Atheroembolism,0,0
+Atherosclerosis [ASCVD],0,0
+Atherosclerosis of aorta,0,0
+Atherosclerosis of renal artery,0,0
+Atherosclerosis of the extremities,0,0
+Athetoid cerebral palsy,0,0
+Atopic dermatitis,0,0
+Atresia and stenosis  of large intestines,0,0
+Atresia and stenosis of small intestines,0,0
+Atresia of foramina of Magendie and Luschka*,0,0
+Atrial fibrillation,0,0
+Atrial fibrillation and flutter,0,0
+Atrial flutter,0,0
+Atrial premature depolarization [Supraventricular premature beats],0,0
+Atrial septal defect,0,0
+Atrioventricular block,0,0
+Atrioventricular septal defect,0,0
+Atrophic conditions of skin,0,0
+Atrophic gastritis,0,0
+Atrophic vaginitis,0,0
+Atrophy of edentulous alveolar ridge,0,0
+Atrophy of salivary gland,0,0
+Atrophy of testis,0,0
+Atrophy of thyroid*,0,0
+Atrophy of tongue papillae,0,0
+Attention and concentration deficit,0,0
+Attention-deficit hyperactivity disorders,0,0
+Atypical atrial flutter*,0,0
+Atypical face pain,0,0
+Auditory hallucinations*,0,0
+Autism,0,0
+Autoimmune disease,0,0
+Autoimmune hemolytic anemias [AIHA],0,0
+Autoimmune hepatitis,0,0
+Autoimmune lymphoproliferative syndrome [ALPS],0,0
+Autoimmune polyglandular failure*,0,0
+Autoinflammatory syndromes*,0,0
+Autonomic dysreflexia,0,0
+Autosomal dominant polycystic kidney disease (ADPKD),0,0
+Autosomal recessive polycystic kidney disease (ARPKD),0,0
+Avoidant personality disorder,0,0
+Azoospermia,0,0
+Bacillus,0,0
+Back pain,0,0
+Back sprain,0,0
+Bacteremia,0,0
+Bacterial encephalitis,0,0
+Bacterial enteritis,0,0
+Bacterial infection of newborn,0,0
+Bacterial infection of the skin,0,0
+Bacterial infections,0,0
+Bacterial meningitis,0,0
+Bacterial pneumonia,0,0
+Bacterial sepsis of newborn,0,0
+Bacteroides fragilis,0,0
+Baker's cyst [popliteal cyst],0,0
+Balanced rearrangements,0,0
+Balanoposthitis,0,0
+Band keratopathy,0,0
+Bandemia,0,0
+Barrett's esophagus,0,0
+Barth syndrome*,0,0
+Bartonellosis,0,0
+Bartter's syndrome,0,0
+Basal cell carcinoma,0,0
+Basophilia,0,0
+Behavioral and emotional disorders with onset usually in childhood and adolescence,0,0
+Behcet's syndrome,0,0
+Bell's palsy,0,0
+Benign intracranial hypertension,0,0
+Benign mammary dysplasias,0,0
+Benign neoplams of the bone and/or cartilage,0,0
+Benign neoplasm of bladder,0,0
+Benign neoplasm of brain,0,0
+Benign neoplasm of choroid,0,0
+Benign neoplasm of colon,0,0
+Benign neoplasm of conjunctiva,0,0
+Benign neoplasm of cornea,0,0
+Benign neoplasm of cranial nerve,0,0
+Benign neoplasm of epididymis and spermatic cord,0,0
+Benign neoplasm of eye,0,0
+Benign neoplasm of kidney and urinary organs,0,0
+Benign neoplasm of lacrimal gland and duct,0,0
+Benign neoplasm of lymph nodes,0,0
+Benign neoplasm of male genital organs,0,0
+Benign neoplasm of meninges (Meningioma),0,0
+Benign neoplasm of orbit,0,0
+Benign neoplasm of other connective and soft tissue,0,0
+Benign neoplasm of other or unspecified sites,0,0
+Benign neoplasm of peripheral nerves*,0,0
+Benign neoplasm of pineal gland,0,0
+Benign neoplasm of rectum and anus,0,0
+Benign neoplasm of retina,0,0
+Benign neoplasm of retroperitoneum and peritoneum,0,0
+Benign neoplasm of spinal cord,0,0
+Benign neoplasm of stomach,0,0
+Benign neoplasm of the breast,0,0
+Benign neoplasm of the colon,0,0
+Benign neoplasm of the digestive organs,0,0
+Benign neoplasm of the endocrine glands,0,0
+Benign neoplasm of the esophagus,0,0
+Benign neoplasm of the eye,0,0
+Benign neoplasm of the fallopian tube and uterine adnexa,0,0
+Benign neoplasm of the floor of mouth,0,0
+Benign neoplasm of the head and neck,0,0
+Benign neoplasm of the heart,0,0
+Benign neoplasm of the hypopharynx,0,0
+Benign neoplasm of the kidney,0,0
+Benign neoplasm of the lip,0,0
+Benign neoplasm of the liver and intrahepatic bile ducts,0,0
+Benign neoplasm of the liver*,0,0
+Benign neoplasm of the mediastinum,0,0
+Benign neoplasm of the nasopharynx,0,0
+Benign neoplasm of the of bronchus and lung,0,0
+Benign neoplasm of the of pleura,0,0
+Benign neoplasm of the oral cavity,0,0
+Benign neoplasm of the oropharynx,0,0
+Benign neoplasm of the pancreas,0,0
+Benign neoplasm of the paranasal sinus and nasal cavity,0,0
+Benign neoplasm of the parathyroid gland,0,0
+Benign neoplasm of the penis,0,0
+Benign neoplasm of the pituitary gland and craniopharyngeal duct,0,0
+Benign neoplasm of the prostate,0,0
+Benign neoplasm of the salivary glands,0,0
+Benign neoplasm of the scrotum,0,0
+Benign neoplasm of the skin,0,0
+Benign neoplasm of the small intestine,0,0
+Benign neoplasm of the testis,0,0
+Benign neoplasm of the thoracic and respiratory organs,0,0
+Benign neoplasm of the thymus,0,0
+Benign neoplasm of the thyroid,0,0
+Benign neoplasm of the tongue,0,0
+Benign neoplasm of the trachea,0,0
+Benign neoplasm of ureter,0,0
+Benign neoplasm of urethra,0,0
+Benign neoplasm of vocal cord or larynx,0,0
+Benign neoplasms of the cervix,0,0
+Benign neoplasms of the ovary,0,0
+Benign neoplasms of the uterus,0,0
+Benign neoplasms of the vagina,0,0
+Benign neoplasms of the vulva,0,0
+Benign neuroendocrine tumors,0,0
+Benign prostatic hyperplasia,0,0
+Benign shuddering attacks,0,0
+Beta thalassemia,0,0
+Bicornate uterus,0,0
+Bilateral hearing loss,0,0
+Biliary atresia,0,0
+Biliary cirrhosis,0,0
+Biliuria,0,0
+Binge eating disorder*,0,0
+Biotinidase deficiency*,0,0
+Bipolar I disorder,0,0
+Bipolar II disorder*,0,0
+Bipolar disorder,0,0
+Birth trauma,0,0
+Birthweight,0,0
+Birthweight 2,0,0
+Bladder exstrophy,0,0
+Bladder neck obstruction,0,0
+Blastomyces,0,0
+Blepharitis,0,0
+Blepharochalasis,0,0
+Blepharoconjunctivitis,0,0
+Blepharophimosis,0,0
+Blepharospasm,0,0
+Blind hypertensive eye,0,0
+Blindness and low vision,0,0
+Blood in stool,0,0
+Blue sclera*,0,0
+Bone marrow transplant,0,0
+Borderline personality disorder,0,0
+Borrelia,0,0
+Boutonnière deformity,0,0
+Bowing of the long bones,0,0
+Bradycardia,0,0
+Brain damage and brain death,0,0
+Brain stem stroke syndrome*,0,0
+Branchial anomaly,0,0
+Breast engorgement in newborn,0,0
+Breast hypoplasia,0,0
+Bronchopneumonia,0,0
+Bronchopulmonary dysplasia originating in the perinatal period*,0,0
+Brow ptosis*,0,0
+Brown-Séquard syndrome*,0,0
+Brucella,0,0
+Budd-Chiari syndrome,0,0
+Bulimia nervosa,0,0
+Bullous disorders,0,0
+Burkholderia,0,0
+Burkitt lymphoma,0,0
+Bursitis,0,0
+C3 glomerulonephritis*,0,0
+Cachexia,0,0
+Cafe au lait spots*,0,0
+Calcaneal spur,0,0
+Calcinosis cutis*,0,0
+Calcium deposits in tendon and bursa,0,0
+Campylobacter,0,0
+Canaliculitis,0,0
+Cancer (solid tumor,0,0
+Candidiasis,0,0
+Candidiasis of skin and nails,0,0
+Candidiasis of vulva and vagina,0,0
+Cannabis abuse or dependance,0,0
+Cannabis use disorders,0,0
+Capsular glaucoma with pseudoexfoliation of lens,0,0
+Carbuncle and furuncle,0,0
+Carcinoid tumor of the bronchus and lung,0,0
+Carcinoid tumor of the kidney,0,0
+Carcinoid tumor of the stomach,0,0
+Carcinoid tumor of the thymus,0,0
+Carcinoid tumors,0,0
+Carcinoma in situ of skin,0,0
+Cardiac arrest,0,0
+Cardiac arrest of newborn,0,0
+Cardiac arrhythmia and conduction disorders,0,0
+Cardiac murmurs,0,0
+Cardiac tamponade,0,0
+Cardiogenic shock,0,0
+Cardiovascular disorders complicating pregnancy,0,0
+Cardiovascular disorders originating in the perinatal period,0,0
+Carnitine deficiency,0,0
+Carotid artery dissection,0,0
+Carotid artery stenosis,0,0
+Carotid sinus syncope,0,0
+Carpal tunnel syndrome,0,0
+Cartilage tear of knee,0,0
+Cataract,0,0
+Cauda equina syndrome,0,0
+Cavus deformity of foot,0,0
+Celiac artery compression syndrome,0,0
+Celiac disease,0,0
+Cellulitis and abscess,0,0
+Cellulitis and abscess of mouth,0,0
+Cellulitis of orbit,0,0
+Central nervous system malformation in fetus affecting management of mother,0,0
+Central opacity of cornea,0,0
+Central origin vertigo,0,0
+Central pain syndrome,0,0
+Central serous chorioretinopathy,0,0
+Central sleep apnea,0,0
+Centrilobular emphysema*,0,0
+Centronuclear myopathy*,0,0
+Cerebellar stroke syndrome*,0,0
+Cerebral amyloid angiopathy*,0,0
+Cerebral aneurysm,0,0
+Cerebral arteritis,0,0
+Cerebral artery syndrome (middle,0,0
+Cerebral atherosclerosis,0,0
+Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy [CADASIL]*,0,0
+Cerebral cysts,0,0
+Cerebral degeneration,0,0
+Cerebral edema,0,0
+Cerebral infarction [Ischemic stroke],0,0
+Cerebral palsy,0,0
+Cerebral palsy and other paralytic syndromes,0,0
+Cerebral venous sinus thrombosis,0,0
+Cerebrospinal fluid leak,0,0
+Cerebrovascular insufficiency,0,0
+Cerebrovascular vasospasm and vasoconstriction*,0,0
+Cervical shortening and incompetence,0,0
+Cervicalgia,0,0
+Cervicitis and endocervicitis,0,0
+Cervicocranial syndrome,0,0
+Chalazion,0,0
+Changes in skin texture,0,0
+Chediak-Higashi syndrome*,0,0
+Chest pain,0,0
+Chest pain on breathing,0,0
+Chest wall deforities,0,0
+Chilblains,0,0
+Chills (without fever),0,0
+Chlamydia,0,0
+Chlamydia psittaci,0,0
+Chlamydia trachomatis,0,0
+Choanal atresia,0,0
+Cholangitis,0,0
+Cholecystitis,0,0
+Cholesteatoma of middle ear,0,0
+Cholesterolosis of gallbladder,0,0
+Cholinergic urticaria,0,0
+Chondrocalcinosis,0,0
+Chondrodystrophy,0,0
+Chondroectodermal dysplasia [genetic],0,0
+Chondrolysis*,0,0
+Chondromalacia,0,0
+Chondropathies,0,0
+Chorea,0,0
+Chorioamnionitis*,0,0
+Chorioretinal inflammation,0,0
+Chorioretinal scars,0,0
+Chorioretinitis,0,0
+Choroidal degenerations,0,0
+Choroidal detachment,0,0
+Choroidal hemorrhage and rupture,0,0
+Choroideremia,0,0
+Chromium deficiency*,0,0
+Chromosomal anomalies,0,0
+Chronic Pharyngitis,0,0
+Chronic atrial fibrillation*,0,0
+Chronic bronchitis,0,0
+Chronic cholecystitis,0,0
+Chronic congestive splenomegaly,0,0
+Chronic cough*,0,0
+Chronic cystitis,0,0
+Chronic fatigue syndrome,0,0
+Chronic hepatitis,0,0
+Chronic hepatitis C,0,0
+Chronic inflammatory demyelinating polyneuritis,0,0
+Chronic inflammatory pelvic disease,0,0
+Chronic kidney disease,0,0
+Chronic laryngitis and laryngotracheitis,0,0
+Chronic leukemia,0,0
+Chronic liver disease,0,0
+Chronic lymphadenitis,0,0
+Chronic lymphoid leukemia,0,0
+Chronic meningitis,0,0
+Chronic migraine without aura,0,0
+Chronic motor or vocal tic disorder,0,0
+Chronic myelomonocytic (monocytic) leukemia,0,0
+Chronic myeloproliferative disease*,0,0
+Chronic myloid leukemia,0,0
+Chronic nasopharyngitis,0,0
+Chronic nephritic syndrome,0,0
+Chronic nonalcoholic liver disease,0,0
+Chronic obstructive pulmonary disease [COPD],0,0
+Chronic osteomyelitis,0,0
+Chronic pain,0,0
+Chronic pain syndrome,0,0
+Chronic pancreatitis,0,0
+Chronic passive congestion of liver,0,0
+Chronic pneumothorax,0,0
+Chronic postrheumatic arthropathy [Jaccoud],0,0
+Chronic prostatitis,0,0
+Chronic pulmonary edema,0,0
+Chronic pyelonephritis,0,0
+Chronic respiratory disease arising in the perinatal period,0,0
+Chronic respiratory failure,0,0
+Chronic rhinitis,0,0
+Chronic sinusitis,0,0
+Chronic thyroiditis,0,0
+Chronic tonsillitis and adenoiditis,0,0
+Chronic total occlusion of artery of the extremities,0,0
+Chronic vascular insufficiency of intestine,0,0
+Chronic venous hypertension,0,0
+Chrystal arthropathies,0,0
+Chyluria,0,0
+Cicatricial ectropion,0,0
+Cicatricial entropion,0,0
+Cicatricial lagophthalmos,0,0
+Circadian rhythm sleep disorder,0,0
+Circumscribed scleroderma,0,0
+Cirrhosis of liver,0,0
+Citrullinemia*,0,0
+Classical Ehlers-Danlos syndrome*,0,0
+Classical phenylketonuria,0,0
+Claw foot (acquired),0,0
+Cleft lip (without cleft palate),0,0
+Cleft palate,0,0
+Cleft palate with cleft lip,0,0
+Cleft uvula [Bifid uvula]*,0,0
+Clicking hip*,0,0
+Clonic hemifacial spasm*,0,0
+Clostridium,0,0
+Clostridium botulinum,0,0
+Clostridium difficile,0,0
+Clostridium perfringens,0,0
+Club foot,0,0
+Clubbing of fingers,0,0
+Cluster headaches,0,0
+Coagulation defects,0,0
+Coarctation of aorta,0,0
+Coccidioides,0,0
+Cognitive communication deficit,0,0
+Colic,0,0
+Coloboma,0,0
+Coloboma of lens*,0,0
+Color vision deficiencies,0,0
+Colorectal cancer,0,0
+Coma,0,0
+Coma and other alteration of consciousness,0,0
+Combined immunity deficiency,0,0
+Combined systolic and diastolic heart failure,0,0
+Common arterial trunk [Truncus arteriosus],0,0
+Common variable immunodeficiency [CVID],0,0
+Common ventricle or double inlet ventricle,0,0
+Communicating hydrocephalus,0,0
+Compartment syndrome and nontraumatic ischemic infarction of muscle,0,0
+Compensatory emphysema,0,0
+Complex regional pain syndrome,0,0
+Complications and ill-defined descriptions of heart disease,0,0
+Complications of labor and delivery NEC,0,0
+Compression of brain,0,0
+Conditions of integument specific to newborn,0,0
+Conduct disorders,0,0
+Conductive hearing loss,0,0
+Confusional arousals,0,0
+Congenital Pulmonary infundibular stenosis,0,0
+Congenital absence,0,0
+Congenital absence and hypoplasia of umbilical artery,0,0
+Congenital absence of bladder and urethra*,0,0
+Congenital absence of external ear [Anotia],0,0
+Congenital absence of ovary*,0,0
+Congenital adrenogenital disorders associated with enzyme deficiency*,0,0
+Congenital agranulocytosis/neutropenia,0,0
+Congenital and hereditary thrombocytopenic purpura,0,0
+Congenital anomalies of adrenal gland,0,0
+Congenital anomalies of aorta,0,0
+Congenital anomalies of breast,0,0
+Congenital anomalies of eye,0,0
+Congenital anomalies of eyelids,0,0
+Congenital anomalies of genital organs,0,0
+Congenital anomalies of great veins,0,0
+Congenital anomalies of hair,0,0
+Congenital anomalies of lacrimal gland,0,0
+Congenital anomalies of limbs,0,0
+Congenital anomalies of nails,0,0
+Congenital anomalies of nose,0,0
+Congenital anomalies of pharynx,0,0
+Congenital anomalies of pulmonary valve,0,0
+Congenital anomalies of ribs and sternum,0,0
+Congenital anomalies of sclera,0,0
+Congenital anomalies of the heart,0,0
+Congenital anomalies of the pancreas,0,0
+Congenital anomalies of upper GI tract,0,0
+Congenital anomalies of uterus and cervix,0,0
+Congenital anomaly of gastrointestinal vessel [Anomalous portal venous connection],0,0
+Congenital anomaly of middle ear,0,0
+Congenital anomaly of the coronary artery,0,0
+Congenital aphakia,0,0
+Congenital arteriovenous malformation*,0,0
+Congenital atresia and stenosis of aorta,0,0
+Congenital atresia and stenosis of urethra and bladder neck,0,0
+Congenital bronchiectasis,0,0
+Congenital bullous ichthyosiform erythroderma*,0,0
+Congenital cataract,0,0
+Congenital cerebral cysts*,0,0
+Congenital chordee,0,0
+Congenital cirrhosis (of liver)*,0,0
+Congenital congenital malformations of male genital organs,0,0
+Congenital corneal malformations,0,0
+Congenital corneal opacity,0,0
+Congenital coxa valga,0,0
+Congenital coxa vara,0,0
+Congenital cutaneous mastocytosis*,0,0
+Congenital cystic lung,0,0
+Congenital cytomegalovirus infection,0,0
+Congenital deformities of chest and bony thorax,0,0
+Congenital deformities of feet,0,0
+Congenital deformities of hip,0,0
+Congenital deformities of skull,0,0
+Congenital deformity of knee,0,0
+Congenital diaphragmatic hernia*,0,0
+Congenital dilatation of esophagus*,0,0
+Congenital dilation or aneurysm of aorta*,0,0
+Congenital dislocation of hip,0,0
+Congenital disorders of the orbit,0,0
+Congenital displaced lens (Ectopia lentis),0,0
+Congenital diverticulum of esophagus*,0,0
+Congenital dyserythropoietic anemia*,0,0
+Congenital facial asymmetry*,0,0
+Congenital glaucoma and buphthalmos,0,0
+Congenital heart block,0,0
+Congenital hiatus hernia,0,0
+Congenital hydrocele,0,0
+Congenital hydrocephalus,0,0
+Congenital hydronephrosis*,0,0
+Congenital hypertonia*,0,0
+Congenital hypertrophic pyloric stenosis,0,0
+Congenital hypoplasia and dysplasia of lung,0,0
+Congenital hypothyroidism,0,0
+Congenital hypotonia*,0,0
+Congenital ichthyosis,0,0
+Congenital insufficiency of aortic valve,0,0
+Congenital iodine-deficiency syndrome*,0,0
+Congenital kyphosis*,0,0
+Congenital lactase deficiency*,0,0
+Congenital laryngomalacia*,0,0
+Congenital lens anomalies,0,0
+Congenital lordosis*,0,0
+Congenital malformation of aortic and mitral valves,0,0
+Congenital malformation of choroid,0,0
+Congenital malformation of clitoris*,0,0
+Congenital malformation of inner ear,0,0
+Congenital malformation of kidney,0,0
+Congenital malformation of optic disc,0,0
+Congenital malformation of ovary,0,0
+Congenital malformation of retina,0,0
+Congenital malformation of stomach,0,0
+Congenital malformation of the skin,0,0
+Congenital malformation of vitreous humor,0,0
+Congenital malformation syndromes attributed to exogenous causes,0,0
+Congenital malformations of abdominal wall,0,0
+Congenital malformations of anterior segment of eye,0,0
+Congenital malformations of bladder and urethra,0,0
+Congenital malformations of brain,0,0
+Congenital malformations of cardiac chambers and connections,0,0
+Congenital malformations of circulatory system (other than heart),0,0
+Congenital malformations of corpus callosum*,0,0
+Congenital malformations of diaphragm,0,0
+Congenital malformations of digestive system,0,0
+Congenital malformations of ear,0,0
+Congenital malformations of endocrine glands,0,0
+Congenital malformations of esophagus,0,0
+Congenital malformations of eyelid,0,0
+Congenital malformations of face and neck,0,0
+Congenital malformations of fallopian tube and broad ligament,0,0
+Congenital malformations of female genitalia,0,0
+Congenital malformations of gallbladder,0,0
+Congenital malformations of great arteries,0,0
+Congenital malformations of heart valves,0,0
+Congenital malformations of integument,0,0
+Congenital malformations of intestine,0,0
+Congenital malformations of iris,0,0
+Congenital malformations of larynx,0,0
+Congenital malformations of lips,0,0
+Congenital malformations of lung,0,0
+Congenital malformations of nervous system,0,0
+Congenital malformations of penis,0,0
+Congenital malformations of posterior segment of eye,0,0
+Congenital malformations of renal artery,0,0
+Congenital malformations of respiratory system,0,0
+Congenital malformations of salivary glands and ducts,0,0
+Congenital malformations of spine,0,0
+Congenital malformations of spleen,0,0
+Congenital malformations of testis and scrotum,0,0
+Congenital malformations of the urinary system,0,0
+Congenital malformations of tongue,0,0
+Congenital malformations of trachea and bronchus*,0,0
+Congenital malformations of tricuspid valve,0,0
+Congenital malformations of ureter and renal pelvis,0,0
+Congenital malformations of vagina,0,0
+Congenital malformations of vas deferens,0,0
+Congenital malformations of vulva*,0,0
+Congenital megaureter*,0,0
+Congenital metatarsus primus varus,0,0
+Congenital mitral insufficiency,0,0
+Congenital mitral stenosis,0,0
+Congenital musculoskeletal deformities of sternocleidomastoid muscle,0,0
+Congenital non-neoplastic nevus,0,0
+Congenital osteodystrophies,0,0
+Congenital pes cavus,0,0
+Congenital pes planus,0,0
+Congenital pharyngeal pouch [Diverticulum of pharynx],0,0
+Congenital pigmentary anomalies of skin,0,0
+Congenital pneumonia,0,0
+Congenital posterior urethral valves*,0,0
+Congenital ptosis,0,0
+Congenital pulmonary arteriovenous malformation,0,0
+Congenital pulmonary valve atresia,0,0
+Congenital pulmonary valve insufficiency*,0,0
+Congenital pulmonary valve stenosis,0,0
+Congenital reduction deformities of brain,0,0
+Congenital renal failure*,0,0
+Congenital sacral dimple*,0,0
+Congenital scoliosis*,0,0
+Congenital spondylolisthesis,0,0
+Congenital stenosis of aortic valve,0,0
+Congenital subaortic stenosis,0,0
+Congenital subglottic stenosis*,0,0
+Congenital syphilis,0,0
+Congenital talipes calcaneovalgus,0,0
+Congenital talipes equinovarus,0,0
+Congenital talipes valgus,0,0
+Congenital talipes varus,0,0
+Congenital torsion of penis*,0,0
+Congenital tracheoesophageal fistula,0,0
+Congenital tricuspid stenosis*,0,0
+Congenital ureterocele,0,0
+Congenital viral diseases,0,0
+Conjoined twins,0,0
+Conjunctival cysts,0,0
+Conjunctival degenerations and deposits,0,0
+Conjunctival edema,0,0
+Conjunctival hemorrhage,0,0
+Conjunctival hyperemia,0,0
+Conjunctival scars,0,0
+Conjunctivitis,0,0
+Constipation,0,0
+Constitutional (hereditary) aplastic anemia,0,0
+Constriction of visual field,0,0
+Contact dermatitis,0,0
+Contracture of joint,0,0
+Contracture of muscle*,0,0
+Contracture of tendon,0,0
+Conversion disorder,0,0
+Convulsions,0,0
+Convulsions of newborn,0,0
+Copper deficiency*,0,0
+Cor triatriatum,0,0
+Cord entanglement complicating labor and delivery,0,0
+Cori disease*,0,0
+Corneal deformities,0,0
+Corneal degenerations,0,0
+Corneal deposits,0,0
+Corneal ectasia,0,0
+Corneal edema,0,0
+Corneal neovascularization,0,0
+Corneal pigmentations,0,0
+Corneal scars and opacities,0,0
+Corneal ulcer,0,0
+Corns and callosities,0,0
+Coronary artery aneurysm,0,0
+Coronary artery dissection,0,0
+Coronary artery spasm [Coronary vasospasm]*,0,0
+Coronary atherosclerosis [Atherosclerotic heart disease],0,0
+Coronary atherosclerosis due to calcified coronary lesion,0,0
+Coronary atherosclerosis due to lipid rich plaque,0,0
+Coronavirus,0,0
+Corpus luteum cyst or hematoma,0,0
+Cortical,0,0
+Cortical age-related cataract,0,0
+Cortical blindness,0,0
+Corticobasal degeneration,0,0
+Corynebacterium,0,0
+Corynebacterium diphtheriae,0,0
+Costochondritis [Tietze's disease],0,0
+Cough variant asthma,0,0
+Coxa valga,0,0
+Coxa vara,0,0
+Coxiella,0,0
+Coxsackie virus,0,0
+Cracked tooth,0,0
+Cramp and spasm,0,0
+Craniofacial dysostosis*,0,0
+Craniosynostosis*,0,0
+Crigler-Najjar syndrome*,0,0
+Critical illness myopathy,0,0
+Critical illness polyneuropathy,0,0
+Crohn's disease,0,0
+Crowding of teeth,0,0
+Cryoglobulinemia*,0,0
+Cryopyrin-associated periodic syndromes*,0,0
+Cryptococcosis,0,0
+Cryptosporidiosis,0,0
+Crystalline deposits in vitreous body,0,0
+Current tobacco use and nicotine dependence,0,0
+Curvature of penis (lateral)*,0,0
+Cushing's syndrome,0,0
+Cutaneous erysipeloid,0,0
+Cutaneous leishmaniasis,0,0
+Cutaneous lupus erythematosus,0,0
+Cutaneous mastocytosis*,0,0
+Cyanosis,0,0
+Cyanotic attacks of newborn,0,0
+Cyclic neutropenia,0,0
+Cyclin-Dependent Kinase-Like 5 Deficiency Disorder*,0,0
+Cyclophoria,0,0
+Cyclotropia,0,0
+Cyst and mucocele of nose and nasal sinus*,0,0
+Cyst and pseudocyst of pancreas,0,0
+Cyst of bone,0,0
+Cyst of iris,0,0
+Cyst of kidney,0,0
+Cyst of prostate,0,0
+Cyst of spleen*,0,0
+Cyst or abscess of Bartholin's gland,0,0
+Cystic eyeball,0,0
+Cystic fibrosis,0,0
+Cystic fibrosis carrier,0,0
+Cystic kidney disease,0,0
+Cystic liver disease,0,0
+Cystic mastopathy,0,0
+Cystinosis*,0,0
+Cystinuria*,0,0
+Cystitis,0,0
+Cystitis and urethritis,0,0
+Cystoid macular degeneration,0,0
+Cysts of eyelid,0,0
+Cytokine release syndrome*,0,0
+Cytology and pathology findings,0,0
+Cytomegaloviral pneumonitis,0,0
+Cytomegalovirus [CMV],0,0
+Dacryoadenitis,0,0
+Dacryocystitis,0,0
+Deaf nonspeaking,0,0
+Decreased fetal movements,0,0
+Decreased white blood cell count,0,0
+Deep phlebothrombosis [DVT] of pregnancy,0,0
+Deep vein thrombosis [DVT],0,0
+Defects of catalase and peroxidase*,0,0
+Deficiency anemias,0,0
+Deforming dorsopathies,0,0
+Deformities of the hip,0,0
+Deformities of the knee,0,0
+Deformity of orbit,0,0
+Degeneration of iris and ciliary body,0,0
+Degenerative disc disease,0,0
+Degenerative diseases of the basal ganglia (excluding parkinsonism),0,0
+Dehydration,0,0
+Delayed milestones,0,0
+Delayed puberty,0,0
+Delayed separation of umbilical cord,0,0
+Deletion of short arm of chromosome 4*,0,0
+Deletion of short arm of chromosome 5 [Cri-du-chat syndrome],0,0
+Delirium,0,0
+Delta thalassemia,0,0
+Delusional disorders,0,0
+Delusions,0,0
+Dementia with Lewy bodies,0,0
+Dementias,0,0
+Dementias and cerebral degeneration,0,0
+Demoralization and apathy,0,0
+Demyelinating diseases of the central nervous system,0,0
+Dengue hemorrhagic fever*,0,0
+Dengue virus,0,0
+Dense deposit disease*,0,0
+Dental abrasion and erosion,0,0
+Dental caries,0,0
+Dentofacial anomalies,0,0
+Dentofacial functional abnormalities,0,0
+Dependent personality disorder,0,0
+Deposits [accretions] on teeth,0,0
+Derangement of meniscus,0,0
+Dermatitis [eczema],0,0
+Dermatitis due to substances taken internally,0,0
+Dermatitis herpetiformis,0,0
+Dermatochalasis of eyelid,0,0
+Dermatographic urticaria,0,0
+Dermatomyositis,0,0
+Dermatophytosis,0,0
+Dermatophytosis of foot [Athlete's foot],0,0
+Dermatophytosis of nail,0,0
+Dermatophytosis of scalp and beard,0,0
+Dermatophytosis of the body,0,0
+Desquamative interstitial pneumonia,0,0
+Developemental delay,0,0
+Deviated nasal septum,0,0
+DiGeorge/Velo-cardio-facial syndrome,0,0
+Diabetes insipidus,0,0
+Diabetes mellitus,0,0
+Diabetes mellitus due to underlying condition*,0,0
+Diabetes mellitus or abnormal glucose in pregnancy,0,0
+Diabetic retinopathy,0,0
+Diaphragmatic hernia,0,0
+Diarrhea,0,0
+Diastematomyelia,0,0
+Diastolic heart failure,0,0
+Diastrophic dysplasia*,0,0
+Dietary calcium deficiency*,0,0
+Dietary selenium deficiency*,0,0
+Dietary zinc deficiency*,0,0
+Difficulty walking,0,0
+Diffuse crescentic glomerulonephritis*,0,0
+Diffuse diseases of connective tissue,0,0
+Diffuse endocapillary proliferative glomerulonephritis*,0,0
+Diffuse goiter,0,0
+Diffuse large B-cell lymphoma*,0,0
+Diffuse membranous glomerulonephritis,0,0
+Diffuse mesangial proliferative glomerulonephritis*,0,0
+Diffuse mesangiocapillary glomerulonephritis*,0,0
+Diffuse myelinoclastic sclerosis [Schilder's disease],0,0
+Dilated cardiomyopathy*,0,0
+Diplopia,0,0
+Discoid lupus erythematosus of eyelid,0,0
+Disease of anus and rectum,0,0
+Disease of capillaries,0,0
+Diseases of esophagus,0,0
+Diseases of hard tissues of teeth,0,0
+Diseases of lips,0,0
+Diseases of pulmonary vessels,0,0
+Diseases of pulp and periapical tissues,0,0
+Diseases of salivary glands,0,0
+Diseases of spleen,0,0
+Diseases of teeth and supporting structures,0,0
+Diseases of the jaws,0,0
+Diseases of the pancreas,0,0
+Diseases of thymus gland,0,0
+Diseases of tongue,0,0
+Diseases of vocal cords and larynx,0,0
+Dislocation,0,0
+Dislocation of elbow,0,0
+Dislocation of finger,0,0
+Dislocation of foot and ankle,0,0
+Dislocation of hip,0,0
+Dislocation of jaw,0,0
+Dislocation of knee,0,0
+Dislocation of lens,0,0
+Dislocation of shoulder,0,0
+Dislocation of vertebra or sternum,0,0
+Dislocation of wrist and hand,0,0
+Disorder of ligament,0,0
+Disorder of nervous system,0,0
+Disorder of patella,0,0
+Disorders of accommodation,0,0
+Disorders of adrenal glands,0,0
+Disorders of amino-acid transport and metabolism,0,0
+Disorders of aromatic amino-acid metabolism,0,0
+Disorders of autonomic nervous system,0,0
+Disorders of bilirubin excretion,0,0
+Disorders of calcium metabolism,0,0
+Disorders of carbohydrate metabolism,0,0
+Disorders of carnitine metabolism,0,0
+Disorders of choroid,0,0
+Disorders of conjunctiva,0,0
+Disorders of copper metabolism,0,0
+Disorders of diaphragm,0,0
+Disorders of external ear,0,0
+Disorders of eyelid function,0,0
+Disorders of facial and cranial nerves,0,0
+Disorders of fatty-acid metabolism,0,0
+Disorders of fluid,0,0
+Disorders of galactose metabolism,0,0
+Disorders of glutathione metabolism,0,0
+Disorders of glycine metabolism*,0,0
+Disorders of glycoprotein metabolism [Glycoproteinoses],0,0
+Disorders of histidine metabolism,0,0
+Disorders of hypoglossal [12th] nerve,0,0
+Disorders of intestinal carbohydrate absorption,0,0
+Disorders of iris and ciliary body,0,0
+Disorders of iron metabolism,0,0
+Disorders of lacrimal system,0,0
+Disorders of lactation,0,0
+Disorders of lens (excluding cataracts),0,0
+Disorders of lipoprotein metabolism and other lipidemias,0,0
+Disorders of lysine and hydroxylysine metabolism*,0,0
+Disorders of magnesium metabolism,0,0
+Disorders of meninges,0,0
+Disorders of menstruation and other abnormal bleeding from female genital tract,0,0
+Disorders of mineral metabolism and mineral deficiencies,0,0
+Disorders of muscle,0,0
+Disorders of muscle tone of newborn*,0,0
+Disorders of newborn related to slow fetal growth and fetal malnutrition,0,0
+Disorders of olfactory [1st] nerve,0,0
+Disorders of optic disc,0,0
+Disorders of optic nerve and visual pathways,0,0
+Disorders of ornithine metabolism*,0,0
+Disorders of ovarian function,0,0
+Disorders of pancreatic internal secretion (excl. DM),0,0
+Disorders of parathyroid gland,0,0
+Disorders of penis,0,0
+Disorders of phosphorus metabolism,0,0
+Disorders of pigmentation,0,0
+Disorders of plasma-protein metabolism,0,0
+Disorders of pneumogastric [10th] nerve,0,0
+Disorders of porphyrin metabolism,0,0
+Disorders of prostate,0,0
+Disorders of puberty,0,0
+Disorders of purine and pyrimidine metabolism,0,0
+Disorders of pyruvate metabolism and gluconeogenesis*,0,0
+Disorders of refraction and accommodation,0,0
+Disorders of sclera,0,0
+Disorders of social functioning with onset in childhood and adolescence,0,0
+Disorders of sweat glands,0,0
+Disorders of testis,0,0
+Disorders of the breast associated with childbirth and disorders of lactation,0,0
+Disorders of the cornea,0,0
+Disorders of the gallbladder,0,0
+Disorders of the middle ear,0,0
+Disorders of the orbit,0,0
+Disorders of the pituitary gland and its hypothalamic control,0,0
+Disorders of the retina,0,0
+Disorders of thyrocalcitonin secretion,0,0
+Disorders of thyroid gland,0,0
+Disorders of tooth develoment,0,0
+Disorders of tryptophan metabolism*,0,0
+Disorders of tyrosine metabolism*,0,0
+Disorders of urea cycle metabolism,0,0
+Disorders of uterus,0,0
+Disorders of vestibular function,0,0
+Disorders of visual cortex,0,0
+Disorders of vitreous body,0,0
+Disorders resulting from impaired renal function,0,0
+Disseminated candidiasis,0,0
+Disseminated intravascular coagulation [Defibrination syndrome],0,0
+Disseminated intravascular coagulation of newborn,0,0
+Disseminated mycobacterium avium-intracellulare complex (DMAC)*,0,0
+Disseminated superficial actinic porokeratosis (DSAP),0,0
+Dissociative and somatoform disorders,0,0
+Disturbances in tooth eruption,0,0
+Disturbances of amino-acid transport,0,0
+Disturbances of branched-chain amino-acid metabolism,0,0
+Disturbances of cerebral status of newborn,0,0
+Disturbances of salivary secretion,0,0
+Disturbances of sensation of smell and taste,0,0
+Disturbances of skin sensation,0,0
+Disturbances of sulphur-bearing amino-acid metabolism,0,0
+Disturbances of temperature regulation of newborn,0,0
+Diverticula of colon,0,0
+Diverticula of small intestine,0,0
+Diverticular disease [Bowel diverticulosis],0,0
+Diverticulitis,0,0
+Diverticulum of bladder,0,0
+Diverticulum of esophagus,0,0
+Dizziness and giddiness,0,0
+Dolichocephaly*,0,0
+Double outlet left ventricle*,0,0
+Double outlet right ventricle,0,0
+Doubling of uterus,0,0
+Doubling of vagina/Vaginal septum,0,0
+Down syndrome,0,0
+Dravet syndrome*,0,0
+Drug & heavy metal induced*,0,0
+Drug and medical agent allergy,0,0
+Drug induced anxiety disorder*,0,0
+Drug induced dystonia,0,0
+Drug induced headache,0,0
+Drug induced neutropenia,0,0
+Drug or chemical induced diabetes mellitus*,0,0
+Drug resistant microorganisms,0,0
+Drug-induced Cushing's syndrome*,0,0
+Drug-induced adrenocortical insufficiency*,0,0
+Drug-induced hemolytic anemia*,0,0
+Drug-induced hypoglycemia*,0,0
+Drug-induced pancytopenia,0,0
+Drug-induced psychotic disorder,0,0
+Drug-induced tremor*,0,0
+Drug-induced/iatrogenic thyroiditis,0,0
+Drugs and alcohol during pregnancy,0,0
+Drusen (degenerative) of macula,0,0
+Dry eye syndrome [Tear film insufficiency],0,0
+Dry mouth*,0,0
+Duane's syndrome [Duane anomaly],0,0
+Duchenne or Becker muscular dystrophy*,0,0
+Duodenal ulcer,0,0
+Duodenitis,0,0
+Duplication of ureter*,0,0
+Duplications with other complex rearrangements*,0,0
+Dural tear,0,0
+Dysarthria,0,0
+Dyshidrosis,0,0
+Dyshormogenetic goiter,0,0
+Dyskinesia of esophagus,0,0
+Dyslexia and alexia,0,0
+Dysmenorrhea,0,0
+Dyspareunia,0,0
+Dysphonia,0,0
+Dysplasia of anus,0,0
+Dysplasia of cervix,0,0
+Dysplasia of female genital organs,0,0
+Dysplasia of prostate,0,0
+Dyspnea [Shortness of breath],0,0
+Dysthymic disorder,0,0
+Dystonia,0,0
+Dystrophy of female genital tract,0,0
+Dysuria,0,0
+ECHO virus,0,0
+Early satiety,0,0
+Eating disorders,0,0
+Ebstein anomaly of the tricuspid valve,0,0
+Eclampsia,0,0
+Ectodermal dysplasia,0,0
+Ectopic ACTH syndrome*,0,0
+Ectopic anus*,0,0
+Ectopic hormone secretion,0,0
+Ectopic kidney*,0,0
+Ectopic pregnancy,0,0
+Ectopic testis*,0,0
+Ectopic thyroid nodule,0,0
+Ectropion of eyelid,0,0
+Eczematous dermatitis of eyelid,0,0
+Edema of eyelid,0,0
+Edema of larynx,0,0
+Edema specific to newborn,0,0
+Effusion of joint,0,0
+Egg allergy,0,0
+Ehler's Danlos syndrome,0,0
+Ehrlichiosis,0,0
+Ejaculatory dysfunction,0,0
+Elevated C-reactive protein (CRP),0,0
+Elevated Lipoprotein(a)*,0,0
+Elevated blood pressure reading without diagnosis of hypertension,0,0
+Elevated cancer antigen 125 [CA 125],0,0
+Elevated carcinoembryonic antigen [CEA],0,0
+Elevated erythrocyte sedimentation rate,0,0
+Elevated prostate specific antigen [PSA],0,0
+Elevated white blood cell count [Leukocytosis],0,0
+Embolism and thrombosis,0,0
+Embolism of cerebral or precerebral arteries,0,0
+Embryonic cyst of cervix,0,0
+Emotional disturbance of childhood or adolescence,0,0
+Emotional lability,0,0
+Encephalitis,0,0
+Encephalocele,0,0
+Encephalopathy,0,0
+End stage renal disease [CDK,0,0
+Endocardial fibroelastosis,0,0
+Endocarditis,0,0
+Endocrine,0,0
+Endometrial hyperplasia,0,0
+Endometriosis,0,0
+Endomyocardial (eosinophilic) disease [Endomyocardial fibrosis],0,0
+Endothelial corneal dystrophy [Fuchs' dystrophy],0,0
+Enlargement of lymph nodes [Lymphadenopathy],0,0
+Enophthalmos,0,0
+Enterobiasis,0,0
+Enterococcus,0,0
+Enteropathic arthropathies,0,0
+Enteroviral vesicular pharyngitis,0,0
+Enterovirus,0,0
+Enthesopathy/Enthesitis/Tendinopathy,0,0
+Entropion and trichiasis of eyelid,0,0
+Eosinophilia,0,0
+Eosinophilic colitis,0,0
+Eosinophilic esophagitis,0,0
+Eosinophilic gastroenteritis,0,0
+Epidermal thickening,0,0
+Epidermolysis bullosa*,0,0
+Epilepsy,0,0
+Epiphora,0,0
+Epiphora due to excess lacrimation,0,0
+Epiphora due to insufficient drainage,0,0
+Episcleritis,0,0
+Epispadias,0,0
+Epistaxis,0,0
+Erosion and ectropion of cervix,0,0
+Erysipelothrix,0,0
+Erythema multiforme,0,0
+Erythema nodosum,0,0
+Erythematous conditions,0,0
+Erythroid,0,0
+Erythromelalgia,0,0
+Escherichia coli,0,0
+Esophageal obstruction (Stricture and stenosis of esophagus),0,0
+Esophageal ulcer,0,0
+Esophageal varices,0,0
+Esophageal web*,0,0
+Esophagitis,0,0
+Esophoria,0,0
+Esotropia,0,0
+Essential fatty acid [EFA] deficiency*,0,0
+Essential hypertension,0,0
+Essential thrombocythemia,0,0
+Essential tremor*,0,0
+Estrogen excess (Hyperestrogenism),0,0
+Estrogen receptor negative status [ER-],0,0
+Estrogen receptor positive status [ER+],0,0
+Estrogen receptor status,0,0
+Eustachian salpingitis,0,0
+Eustachian tube disorders,0,0
+Evans syndrome,0,0
+Exceptionally large newborn baby,0,0
+Excessive crying of child,0,0
+Excessive fetal growth,0,0
+Excessive menstruation,0,0
+Excessive vomiting in pregnancy,0,0
+Excessive weight gain in pregnancy,0,0
+Exercise induced bronchospasm,0,0
+Exfoliation due to erythematous condition,0,0
+Exocrine pancreatic cancer,0,0
+Exocrine pancreatic insufficiency*,0,0
+Exomphalos [Omphalocele],0,0
+Exophoria,0,0
+Exophthalmos [Proptosis],0,0
+Exostosis,0,0
+Exostosis of external auditory canal,0,0
+Exotropia,0,0
+Expressive language disorder,0,0
+Extranodal NK/T-cell lymphoma,0,0
+Extrapyramidal and movement disorders,0,0
+Extremely low birthweight,0,0
+Extremely low birthweight (<1,0,0
+Extremely preterm,0,0
+Extremely preterm (<= 28 weeks),0,0
+Extrinsic (acquired) hemolytic anemias,0,0
+Exuadative (wet) age-related macular degeneration,0,0
+Exudative retinopathy,0,0
+Eye infection,0,0
+Eyelid retraction,0,0
+Fabry disease*,0,0
+Facial myokymia*,0,0
+Facial nerve disorders and weakness,0,0
+Facial weakness,0,0
+Facioscapulohumeral muscular dystrophy*,0,0
+Factor XI deficiency [Hemophilia C],0,0
+Failure to thrive,0,0
+Failure to thrive in childhood,0,0
+Failure to thrive in newborn,0,0
+False labor,0,0
+Familial Mediterranean fever,0,0
+Familial chondrocalcinosis*,0,0
+Familial dysautonomia [Riley-Day]*,0,0
+Familial hypercholesterolemia*,0,0
+Familial hypophosphatemia*,0,0
+Familial motor neuron disease*,0,0
+Familial polycythemia [Familial erythrocytosis],0,0
+Fasciculation*,0,0
+Fasciopathy,0,0
+Fatal familial insomnia,0,0
+Fatty liver disease (FLD),0,0
+Febrile convulsions,0,0
+Febrile neutrophilic dermatosis [Sweet's syndrome]*,0,0
+Fecal incontinence and encopresis,0,0
+Feeding problems of newborn,0,0
+Female infertility,0,0
+Female infertility associated with anovulation,0,0
+Femoral hernia,0,0
+Fetal alcohol syndrome*,0,0
+Fetal hematologic conditions,0,0
+Fibroadenosis of breast,0,0
+Fibrosclerosis of breast,0,0
+Fibrosis and cirrhosis of liver,0,0
+Finding of alcohol in blood,0,0
+Fish allergy,0,0
+Fissured,0,0
+Fistula involving female genital tract,0,0
+Fistula of stomach and duodenum,0,0
+Flaccid hemiplegia,0,0
+Flat foot [pes planus],0,0
+Flatulence,0,0
+Floppy iris syndrome,0,0
+Flushing,0,0
+Focal and segmental glomerular lesions*,0,0
+Folate deficiency [Vitamin B9],0,0
+Folate-deficiency anemia,0,0
+Follicular conjunctivitis,0,0
+Follicular cyst of ovary,0,0
+Follicular lymphoma,0,0
+Food allergy,0,0
+Foot drop (acquired)*,0,0
+Foreign body granuloma,0,0
+Fourth [trochlear] nerve palsy,0,0
+Fracture of bones in thorax,0,0
+Fracture of femur,0,0
+Fracture of foot and toe,0,0
+Fracture of hand or wrist,0,0
+Fracture of lower limb,0,0
+Fracture of pelvis,0,0
+Fracture of upper limb,0,0
+Fracture of vertebrae,0,0
+Fragile X syndrome,0,0
+Francisella,0,0
+Freckles*,0,0
+Frequency of urination and polyuria,0,0
+Friedreich ataxia*,0,0
+Frontal lobe and executive function deficit,0,0
+Frontotemporal dementia [FTD],0,0
+Fructokinase deficiency,0,0
+Functional disorders of polymorphonuclear neutrophils,0,0
+Functional dyspepsia,0,0
+Functional intestinal disorder,0,0
+Fungal infection of the skin,0,0
+Fungal infections,0,0
+Fungal memingitis,0,0
+Fusion of labia*,0,0
+Fusion of spine*,0,0
+Fussy infant,0,0
+GM2 gangliosidosis,0,0
+Galactorrhea,0,0
+Galactosemia (Classical and Duarte),0,0
+Gallbladder perforation,0,0
+Gallstones [Cholelithiasis],0,0
+Ganglion cyst,0,0
+Gangrene,0,0
+Gastric diverticulum,0,0
+Gastric ulcer,0,0
+Gastric varices*,0,0
+Gastritis,0,0
+Gastro-esophageal reflux disease [GERD],0,0
+Gastroesophageal laceration-hemorrhage syndrome [Mallory-Weiss tear],0,0
+Gastrointestinal angiodysplasia,0,0
+Gastrointestinal hemorrhage,0,0
+Gastrointestinal inflammation,0,0
+Gastrointestinal obstruction,0,0
+Gastrointestinal stromal tumor*,0,0
+Gastrojejunal ulcer,0,0
+Gastroparesis,0,0
+Gastroschisis,0,0
+Gaucher disease*,0,0
+Gender identity disorder,0,0
+General symptoms and other findings,0,0
+Generalized anxiety disorder,0,0
+Generalized edema*,0,0
+Generalized epilepsy,0,0
+Generalized hyperhidrosis,0,0
+Generalized osteoarthritis,0,0
+Genetic anomalies of leukocytes,0,0
+Genetic carrier status,0,0
+Genetic causes of short stature*,0,0
+Genetic disease in fetus affecting management of mother,0,0
+Genetic related intellectual disability*,0,0
+Genetic susceptibility of disease,0,0
+Genetic susceptibility to malignant neoplasm,0,0
+Genetic susceptibility to malignant neoplasm of breast,0,0
+Genetic susceptibility to malignant neoplasm of endometrium,0,0
+Genetic susceptibility to malignant neoplasm of ovary,0,0
+Genetic susceptibility to malignant neoplasm of prostate,0,0
+Genetic torsion dystonia,0,0
+Geniculate ganglionitis,0,0
+Genu valgum (acquired),0,0
+Genu varum (acquired),0,0
+Geographic tongue,0,0
+Gestational [pregnancy-induced] hypertension without significant proteinuria,0,0
+Gestational diabetes mellitus*,0,0
+Gestational edema and proteinuria*,0,0
+Giant cell arteritis,0,0
+Giant cell granuloma,0,0
+Giardiasis,0,0
+Gilbert syndrome*,0,0
+Gingival enlargement*,0,0
+Gingival recession,0,0
+Gingivitis,0,0
+Glaucoma,0,0
+Glomerular diseases,0,0
+Glossitis,0,0
+Glossodynia,0,0
+Glucose transporter protein type 1 deficiency (GLUT1 deficiency)*,0,0
+Glucose-6-phosphate dehydrogenase [G6PD] deficiency*,0,0
+Glutaric aciduria type II*,0,0
+Glycogen storage disease,0,0
+Glycosuria,0,0
+Gonorrhea complicating pregnancy,0,0
+Gout,0,0
+Granular corneal dystrophy,0,0
+Granuloma of orbit,0,0
+Granulomatous disorder of the skin,0,0
+Graves' disease [Toxic diffuse goiter],0,0
+Gross hematuria,0,0
+Group 4 pulmonary hypertension*,0,0
+Group A Streptococcus,0,0
+Group B Streptococcus,0,0
+Guillain-Barre syndrome [Acute infective polyneuritis],0,0
+Gynecological benign neoplasms,0,0
+Gynecological malignant neoplasms,0,0
+HELLP syndrome*,0,0
+Haemophilus ducreyi,0,0
+Hairy leukoplakia*,0,0
+Halitosis*,0,0
+Hallervorden-Spatz disease [PKAN]*,0,0
+Hallucinations,0,0
+Hallucinogen abuse or dependence,0,0
+Hallucinogen related disorders,0,0
+Hallux rigidus,0,0
+Hallux valgus (Bunion),0,0
+Hallux varus,0,0
+Hammer toe,0,0
+Harlequin fetus*,0,0
+Hartnup's disease*,0,0
+Hashimoto thyroiditis [Chronic lymphocytic thyroiditis],0,0
+Headache,0,0
+Headache syndromes,0,0
+Hearing impairment,0,0
+Heart block,0,0
+Heart transplant,0,0
+Heart valve replaced,0,0
+Heartburn,0,0
+Heavy chain disease*,0,0
+Helicobacter [H. pylori],0,0
+Hemangioma,0,0
+Hemangioma and lymphangioma,0,0
+Hemarthrosis,0,0
+Hematemesis,0,0
+Hematological disorders of newborn,0,0
+Hematometra and hematocolpos,0,0
+Hematuria,0,0
+Hemianopia,0,0
+Hemiplegia and hemiparesis,0,0
+Hemiplegic migraine,0,0
+Hemo onc - by cell of origin,0,0
+Hemochromatosis,0,0
+Hemoglobin C disease,0,0
+Hemoglobin C trait [Sickle-cell trait],0,0
+Hemoglobin E disease,0,0
+Hemoglobinopathies,0,0
+Hemoglobinuria,0,0
+Hemolytic Disease of the Newborn,0,0
+Hemolytic-uremic syndrome,0,0
+Hemopericardium NEC,0,0
+Hemoperitoneum,0,0
+Hemophagocytic syndromes,0,0
+Hemophilus infection,0,0
+Hemophilus influenzae,0,0
+Hemophthalmos,0,0
+Hemoptysis,0,0
+Hemorrhage from respiratory passages,0,0
+Hemorrhage from throat,0,0
+Hemorrhage in early pregnancy,0,0
+Hemorrhage in optic nerve sheath,0,0
+Hemorrhage of orbit,0,0
+Hemorrhage of rectum and anus,0,0
+Hemorrhage of the eye,0,0
+Hemorrhagic disorder due to intrinsic circulating anticoagulants,0,0
+Hemorrhagic stroke,0,0
+Hemorrhoids,0,0
+Heparin-induced thrombocytopenia [HIT],0,0
+Hepatic failure,0,0
+Hepatic necrosis,0,0
+Hepatitis,0,0
+Hepatitis A,0,0
+Hepatitis B,0,0
+Hepatitis B with delta,0,0
+Hepatitis C,0,0
+Hepatitis E,0,0
+Hepatomegaly,0,0
+Hepatopulmonary syndrome,0,0
+Hepatorenal syndrome,0,0
+Hepatosplenomegaly*,0,0
+Hepatovirus,0,0
+Hereditary alpha tryptasemia*,0,0
+Hereditary ataxia,0,0
+Hereditary cardiovascular diseases,0,0
+Hereditary choroidal dystrophies,0,0
+Hereditary corneal dystrophies,0,0
+Hereditary elliptocytosis,0,0
+Hereditary erythropoietic porphyria*,0,0
+Hereditary factor IX disorder [Hemophilia B],0,0
+Hereditary factor VIII deficiency [Hemophilia A],0,0
+Hereditary fructose intolerance,0,0
+Hereditary hemochromatosis,0,0
+Hereditary hemolytic anemias,0,0
+Hereditary hemolytic-uremic syndrome*,0,0
+Hereditary hemorrhagic telangiectasia,0,0
+Hereditary hypo-coagulability,0,0
+Hereditary hypogammaglobulinemia,0,0
+Hereditary lymphedema,0,0
+Hereditary motor and sensory neuropathy,0,0
+Hereditary nephropathy*,0,0
+Hereditary neuropathy,0,0
+Hereditary optic atrophy,0,0
+Hereditary persistence of fetal hemoglobin [HPFH]*,0,0
+Hereditary retinal dystrophy,0,0
+Hereditary sideroblastic anemia*,0,0
+Hereditary spastic paraplegia,0,0
+Hereditary spherocytosis,0,0
+Hereditary vitamin D-dependent rickets (type 1) (type 2)*,0,0
+Hermansky-Pudlak syndrome*,0,0
+Hernia of the abdominal wall,0,0
+Herpes simplex,0,0
+Herpes zoster,0,0
+Herpesvirus,0,0
+Heterophoria,0,0
+Hiccough,0,0
+Hidden penis,0,0
+Hidradenitis suppurativa,0,0
+High altitude periodic breathing,0,0
+High risk human papillomavirus (HPV) DNA test positive,0,0
+High risk sexual behavior,0,0
+Hirschsprung's disease,0,0
+Hirsutism*,0,0
+Histidinemia*,0,0
+Histocytoces,0,0
+Histoplasmosis,0,0
+Histrionic personality disorder,0,0
+Hodgkin lymphoma,0,0
+Holoprosencephaly*,0,0
+Homicidal ideations,0,0
+Homocystinuria*,0,0
+Hordeolum,0,0
+Horner's syndrome*,0,0
+Horseshoe tear of retina without detachment,0,0
+Hostility and violent behavior*,0,0
+Human T-cell lymphotropic virus type 1*,0,0
+Human herpesvirus 6,0,0
+Human herpesvirus 7,0,0
+Human immunodeficiency virus,0,0
+Human metapneumovirus*,0,0
+Human papillomavirus,0,0
+Hungry bone syndrome,0,0
+Huntington's disease,0,0
+Hurler's syndrome [MPS IH]*,0,0
+Hurler-Scheie syndrome [MPS IH/S]*,0,0
+Hydatidiform mole,0,0
+Hydrocele,0,0
+Hydrocephalus,0,0
+Hydromyelia,0,0
+Hydronephrosis,0,0
+Hydrops fetalis not due to hemolytic disease,0,0
+Hydroureter,0,0
+Hydroxyapatite deposition disease*,0,0
+Hypepigmentation*,0,0
+Hyper-coagulability,0,0
+Hyperacusis,0,0
+Hyperaldosteronism,0,0
+Hypercalcemia,0,0
+Hypercalciuria*,0,0
+Hypercarotenemia,0,0
+Hypercementosis,0,0
+Hyperchloremia of newborn*,0,0
+Hypercholesterolemia,0,0
+Hyperchylomicronemia,0,0
+Hyperemesis gravidarum,0,0
+Hypereosinophilic syndrome*,0,0
+Hyperesthesia*,0,0
+Hyperglycemia,0,0
+Hyperglyceridemia,0,0
+Hyperhidrosis,0,0
+Hyperimmunoglobulin E [IgE] syndrome*,0,0
+Hyperkalemia [Hyperpotassemia],0,0
+Hyperlipidemia,0,0
+Hypermagnesemia*,0,0
+Hypermetropia,0,0
+Hypermobility syndrome,0,0
+Hypernasality,0,0
+Hyperosmolality and/or hypernatremia,0,0
+Hyperostosis of skull,0,0
+Hyperoxaluria*,0,0
+Hyperparathyroidism,0,0
+Hyperphenylalaninemia,0,0
+Hyperpigmentation of eyelid [Chloasma],0,0
+Hyperplasia of jaw,0,0
+Hyperplastic and giant kidney*,0,0
+Hyperprolactinemia*,0,0
+Hypersensitivity angiitis,0,0
+Hypersomnia,0,0
+Hypersplenism,0,0
+Hypertelorism,0,0
+Hypertensive crisis*,0,0
+Hypertensive encephalopathy,0,0
+Hypertensive heart disease,0,0
+Hypertensive retinopathy,0,0
+Hypertonic,0,0
+Hypertrichosis and hirsutism,0,0
+Hypertrichosis of eyelid,0,0
+Hypertrophic cardiomyopathy,0,0
+Hypertrophic conditions of skin,0,0
+Hypertrophic obstructive cardiomyopathy,0,0
+Hypertrophic osteoarthropathy [Hypertrophic pulmonary osteoarthropathy],0,0
+Hypertrophic scar [Keloid scar],0,0
+Hypertrophy of (infrapatellar) fat pad,0,0
+Hypertrophy of bone*,0,0
+Hypertrophy of breast (Gynecomastia),0,0
+Hypertrophy of kidney,0,0
+Hypertrophy of nasal turbinates,0,0
+Hypertrophy of salivary gland,0,0
+Hypertrophy of tongue papillae,0,0
+Hypertrophy of tonsils and adenoids,0,0
+Hypertrophy of uterus,0,0
+Hyperuricemia without signs of gout*,0,0
+Hyperventilation,0,0
+Hypervitaminosis A,0,0
+Hypervitaminosis D,0,0
+Hyphema,0,0
+Hypnic headache,0,0
+Hypo-coagulability,0,0
+Hypocalcemia,0,0
+Hypochloremia of newborn*,0,0
+Hypochondrogenesis*,0,0
+Hypocitraturia*,0,0
+Hypoesthesia of skin*,0,0
+Hypogammaglobulinemia NOS,0,0
+Hypoglycemia,0,0
+Hypoglycemic coma,0,0
+Hypokalemia [Hypopotassemia],0,0
+Hypomagnesemia*,0,0
+Hyponasality,0,0
+Hypoparathyroidism,0,0
+Hypopigmentation,0,0
+Hypopituitarism,0,0
+Hypoplasia of jaw,0,0
+Hypoplasia of penis,0,0
+Hypoplastic left heart syndrome,0,0
+Hypoplastic right heart syndrome*,0,0
+Hypopyon,0,0
+Hyposmolality and/or hyponatremia,0,0
+Hypospadias,0,0
+Hyposplenism*,0,0
+Hypotension,0,0
+Hypotension syndrome or shock during or following labor and delivery,0,0
+Hypothalamic dysfunction*,0,0
+Hypothermia,0,0
+Hypothermia of newborn,0,0
+Hypothyroidism,0,0
+Hypothyroidism (not specified as secondary),0,0
+Hypotony of eye,0,0
+Hypotrichosis of eyelid [Madarosis],0,0
+Hypovolemia,0,0
+Hypovolemic shock*,0,0
+Hypoxemia,0,0
+Hypoxic ischemic encephalopathy [HIE],0,0
+Iatrogenic hypopituitarism*,0,0
+Iatrogenic pneumothorax,0,0
+Ichthyosis vulgaris*,0,0
+Idiopathic aplastic anemia*,0,0
+Idiopathic hypereosinophilic syndrome*,0,0
+Idiopathic interstitial pneumonia,0,0
+Idiopathic orofacial dystonia,0,0
+Idiopathic progressive neuropathy,0,0
+Idiopathic pulmonary fibrosis,0,0
+Idiopathic pulmonary hemosiderosis,0,0
+Idiopathic scoliosis,0,0
+Idiopathic sleep related nonobstructive alveolar hypoventilation,0,0
+Idiopathic urticaria,0,0
+Iliotibial band syndrome*,0,0
+Immobility syndrome (paraplegic)*,0,0
+Immune thrombocytopenic purpura [ITP],0,0
+Immunodeficiencies,0,0
+Immunodeficiency NOS,0,0
+Immunodeficiency with increased IgM,0,0
+Impacted cerumen,0,0
+Impacted teeth*,0,0
+Impaction of intestine,0,0
+Impaired contrast sensitivity*,0,0
+Impaired convergence,0,0
+Impaired fasting glucose,0,0
+Impaired glucose tolerance (oral),0,0
+Imperforate hymen,0,0
+Impetigo,0,0
+Impingement syndrome of shoulder*,0,0
+Impulse disorders,0,0
+Impulsiveness,0,0
+Inborn error of lipid metabolism,0,0
+Inclusion body myositis,0,0
+Incompetence of cervix uteri,0,0
+Inconclusive laboratory evidence of human immunodeficiency virus [HIV],0,0
+Incontinentia pigmenti*,0,0
+Indeterminate sex and hermaphroditism,0,0
+Infarction of spleen*,0,0
+Infection of amniotic cavity,0,0
+Infection of the eye,0,0
+Infection of the skin,0,0
+Infections,0,0
+Infections in newborn,0,0
+Infections of genitourinary tract in pregnancy,0,0
+Infectious mononucleosis,0,0
+Infectious prions,0,0
+Infective (teno)synovitis*,0,0
+Infective and reactive arthropathies,0,0
+Infective meningitis,0,0
+Inflammation of eyelids,0,0
+Inflammation of lacrimal passages,0,0
+Inflammation of orbit,0,0
+Inflammation of the eye,0,0
+Inflammation of the heart [Carditis],0,0
+Inflammatory and immune myopathies,0,0
+Inflammatory bowel disease,0,0
+Inflammatory conditions of jaw,0,0
+Inflammatory disease of breast,0,0
+Inflammatory disease of cervix,0,0
+Inflammatory diseases of female pelvic organs,0,0
+Inflammatory diseases of prostate,0,0
+Inflammatory diseases of uterus,0,0
+Inflammatory myopathy,0,0
+Inflammatory polyneuropathy,0,0
+Inflammatory polyps of colon [Pseudopolyposis of colon],0,0
+Inflammatory spondylopathies,0,0
+Influenza A virus,0,0
+Influenza virus,0,0
+Ingrowing nail,0,0
+Inguinal hernia,0,0
+Inhalation lung injury,0,0
+Insomnia,0,0
+Instability of joint,0,0
+Intellectual disabilities,0,0
+Intercostal pain*,0,0
+Intermittent explosive disorder,0,0
+Interruption of aortic arch,0,0
+Interstial nephritis related to specific systemic diseases,0,0
+Interstitial emphysema [Pneumomediastinum],0,0
+Interstitial emphysema and related conditions of newborn,0,0
+Interstitial pneumonitis,0,0
+Interstitial pulmonary diseases,0,0
+Intervertebral disc disorder,0,0
+Intestinal carcinoid,0,0
+Intestinal duplication*,0,0
+Intestinal e.coli,0,0
+Intestinal fistula,0,0
+Intestinal infection,0,0
+Intestinal infection due to C. difficile,0,0
+Intestinal infection due to protozoa,0,0
+Intestinal malabsorption,0,0
+Intestinal obstruction of newborn,0,0
+Intestinal or peritoneal adhesions,0,0
+Intestinal perforation,0,0
+Intestine transplant,0,0
+Intracranial and intraspinal abscess,0,0
+Intracranial nontraumatic hemorrhage of newborn,0,0
+Intracranial space-occupying lesion found on diagnostic imaging of central nervous system*,0,0
+Intrauterine death,0,0
+Intrauterine hypoxia,0,0
+Intrauterine synechiae,0,0
+Intraventricular nontraumatic hemorrhage of newborn [IVH],0,0
+Iodine-related thyroid disorders,0,0
+Iridocyclitis,0,0
+Iron deficiency,0,0
+Iron deficiency anemia,0,0
+Iron deficiency anemia secondary to blood loss,0,0
+Irregular eye movements,0,0
+Irregular menstrual cycle,0,0
+Irregular menstrual cycle/bleeding,0,0
+Irritability,0,0
+Irritable bowel syndrome,0,0
+Ischemia and infarction of kidney,0,0
+Ischemic cardiomyopathy*,0,0
+Ischemic heart disease,0,0
+Ischemic optic neuropathy,0,0
+Isovaleric acidemia*,0,0
+Jaundice,0,0
+Jaw pain,0,0
+Joint derangements and related disorders,0,0
+Juvenile epithelial corneal dystrophy [Meesmann corneal dystrophy],0,0
+Juvenile myoclonic epilepsy*,0,0
+Juvenile rheumatoid arthritis [JRA/JIA],0,0
+Kaposi's sarcoma,0,0
+Karyotype 46,0,0
+Karyotype 47,0,0
+Kaschin-Beck disease,0,0
+Kearns-Sayre syndrome*,0,0
+Keratitis,0,0
+Keratoconjunctivitis,0,0
+Keratoconjunctivitis sicca,0,0
+Keratoconus,0,0
+Keratoderma,0,0
+Kidney stone disease,0,0
+Kidney transplant,0,0
+Kienböck's disease of adults*,0,0
+Kissing spine,0,0
+Klebsiella,0,0
+Klinefelter's syndrome,0,0
+Klippel-Feil syndrome,0,0
+Known or suspected fetal abnormality affecting management of mother,0,0
+Krabbe disease*,0,0
+Kyphoscoliotic heart disease,0,0
+Labor and delivery complicated by vasa previa,0,0
+Labyrinthine fistula,0,0
+Labyrinthitis,0,0
+Lack of coordination,0,0
+Lack of expected normal physiological development in childhood,0,0
+Lacrimal atrophy,0,0
+Lacrimal cysts,0,0
+Lacrimal mucocele,0,0
+Lacunar syndrome*,0,0
+Lagophthalmos,0,0
+Lambert-Eaton syndrome,0,0
+Lamellar ichthyosis*,0,0
+Laryngeal hypoplasia*,0,0
+Laryngeal spasm,0,0
+Laryngeal web,0,0
+Laryngitis and tracheitis,0,0
+Laryngocele*,0,0
+Late pregnancy,0,0
+Lateral epicondylitis (Tennis elbow),0,0
+Latex allergy,0,0
+Lattice corneal dystrophy,0,0
+Lattice degeneration of retina,0,0
+Left bundle branch block,0,0
+Left heart failure,0,0
+Legionella,0,0
+Leigh's disease*,0,0
+Leiomyoma of uterus,0,0
+Leishmaniasis [Leishmania],0,0
+Lennox-Gastaut syndrome*,0,0
+Leptospira,0,0
+Lesch-Nyhan syndrome*,0,0
+Lesion of sciatic nerve,0,0
+Lesions of mouth,0,0
+Leucocoria,0,0
+Leukemia,0,0
+Leukemoid reaction,0,0
+Lichen planus,0,0
+Lichen simplex chronicus,0,0
+Light chain (AL) amyloidosis*,0,0
+Limited mandibular range of motion,0,0
+Lipid storage disorders,0,0
+Lipodystrophy,0,0
+Lipoma,0,0
+Lipoma of intrathoracic organs,0,0
+Lipoma of skin subcutaneous tissue,0,0
+Lipomatosis*,0,0
+Lipoprotein deficiencies,0,0
+Listeria,0,0
+Liver and biliary tract disorders in pregnancy,0,0
+Liver transplant,0,0
+Lobar pneumonia*,0,0
+Lobulated,0,0
+Localized adiposity,0,0
+Localized swelling,0,0
+Long QT syndrome,0,0
+Long chain/very long chain acyl CoA dehydrogenase deficiency*,0,0
+Long labor,0,0
+Loose body in joint,0,0
+Lordosis,0,0
+Loss of teeth and edentulism,0,0
+Low back pain,0,0
+Low birthweight,0,0
+Low birthweight (1,0,0
+Low lying placenta*,0,0
+Low weight gain in pregnancy*,0,0
+Low-tension glaucoma,0,0
+Lowe's syndrome*,0,0
+Lumbosacral sprain,0,0
+Lump or mass in breast,0,0
+Lump or mass in breast or nonspecific abnormal breast exam,0,0
+Lung transplant,0,0
+Lupus anticoagulant syndrome*,0,0
+Lyme disease,0,0
+Lymphadenitis,0,0
+Lymphangioleiomyomatosis,0,0
+Lymphangioma,0,0
+Lymphangitis,0,0
+Lymphedema,0,0
+Lymphocyte function antigen-1 [LFA-1] defect*,0,0
+Lymphocytopenia,0,0
+Lymphocytosis (symptomatic),0,0
+Lymphoid,0,0
+Lymphoid interstitial pneumonia,0,0
+Lymphoma,0,0
+Lysosomal storage disorders,0,0
+MELAS syndrome*,0,0
+MERRF syndrome*,0,0
+Macrocephaly*,0,0
+Macrocheilia,0,0
+Macrocytic anemia,0,0
+Macrogenia,0,0
+Macroglobulinemia [Waldenstrom macroglobulinemia],0,0
+Macroglossia,0,0
+Macrophthalmosa*,0,0
+Macrostomia,0,0
+Macrotia,0,0
+Macular corneal dystrophy*,0,0
+Macular cyst,0,0
+Macular degeneration,0,0
+Major anomalies of jaw size,0,0
+Major depressive disorder,0,0
+Major histocompatibility complex class I deficiency (Bare lymphocyte syndrome,0,0
+Major histocompatibility complex class II deficiency (Bare lymphocyte syndrome,0,0
+Major osseous defects,0,0
+Malaise and fatigue,0,0
+Male erectile dysfunction*,0,0
+Male infertility,0,0
+Male sexual dysfuction,0,0
+Malformation of placenta*,0,0
+Malformations of aqueduct of Sylvius*,0,0
+Malignant hyperthermia,0,0
+Malignant neoplam of the bone and/or cartilage,0,0
+Malignant neoplasm of anus,0,0
+Malignant neoplasm of appendix,0,0
+Malignant neoplasm of brain,0,0
+Malignant neoplasm of cardia,0,0
+Malignant neoplasm of choroid,0,0
+Malignant neoplasm of colon,0,0
+Malignant neoplasm of conjunctiva,0,0
+Malignant neoplasm of connective and soft tissue,0,0
+Malignant neoplasm of cornea,0,0
+Malignant neoplasm of cranial nerve,0,0
+Malignant neoplasm of endometrium,0,0
+Malignant neoplasm of epididymis,0,0
+Malignant neoplasm of eye,0,0
+Malignant neoplasm of kidney,0,0
+Malignant neoplasm of lacrimal gland and duct,0,0
+Malignant neoplasm of male genitalia,0,0
+Malignant neoplasm of meninges,0,0
+Malignant neoplasm of nasal cavities,0,0
+Malignant neoplasm of orbit,0,0
+Malignant neoplasm of other and ill-defined sites,0,0
+Malignant neoplasm of peripheral nerves*,0,0
+Malignant neoplasm of renal pelvis,0,0
+Malignant neoplasm of retina,0,0
+Malignant neoplasm of retroperitoneum and peritoneum,0,0
+Malignant neoplasm of spermatic cord,0,0
+Malignant neoplasm of spinal cord,0,0
+Malignant neoplasm of stomach,0,0
+Malignant neoplasm of the bladder,0,0
+Malignant neoplasm of the breast,0,0
+Malignant neoplasm of the cervix,0,0
+Malignant neoplasm of the digestive organs,0,0
+Malignant neoplasm of the endocrine glands,0,0
+Malignant neoplasm of the esophagus,0,0
+Malignant neoplasm of the eye,0,0
+Malignant neoplasm of the fallopian tube and uterine adnexa,0,0
+Malignant neoplasm of the floor of mouth,0,0
+Malignant neoplasm of the gallbladder,0,0
+Malignant neoplasm of the gallbladder and extrahepatic bile ducts,0,0
+Malignant neoplasm of the gums,0,0
+Malignant neoplasm of the head and neck,0,0
+Malignant neoplasm of the heart,0,0
+Malignant neoplasm of the hypopharynx,0,0
+Malignant neoplasm of the intrahepatic bile ducts,0,0
+Malignant neoplasm of the kidney,0,0
+Malignant neoplasm of the larynx,0,0
+Malignant neoplasm of the lip,0,0
+Malignant neoplasm of the liver,0,0
+Malignant neoplasm of the liver and intrahepatic bile ducts,0,0
+Malignant neoplasm of the lower GI tract,0,0
+Malignant neoplasm of the mediastinum,0,0
+Malignant neoplasm of the nasopharynx,0,0
+Malignant neoplasm of the of bronchus and lung,0,0
+Malignant neoplasm of the of pleura,0,0
+Malignant neoplasm of the oral cavity,0,0
+Malignant neoplasm of the oropharynx,0,0
+Malignant neoplasm of the ovary,0,0
+Malignant neoplasm of the palate,0,0
+Malignant neoplasm of the pancreas,0,0
+Malignant neoplasm of the parathyroid gland,0,0
+Malignant neoplasm of the penis,0,0
+Malignant neoplasm of the pharynx,0,0
+Malignant neoplasm of the pineal gland,0,0
+Malignant neoplasm of the pituitary gland and craniopharyngeal duct,0,0
+Malignant neoplasm of the placenta,0,0
+Malignant neoplasm of the prostate,0,0
+Malignant neoplasm of the salivary glands,0,0
+Malignant neoplasm of the scrotum,0,0
+Malignant neoplasm of the skin,0,0
+Malignant neoplasm of the small intestine,0,0
+Malignant neoplasm of the testis,0,0
+Malignant neoplasm of the thoracic and respiratory organs,0,0
+Malignant neoplasm of the thymus,0,0
+Malignant neoplasm of the thyroid,0,0
+Malignant neoplasm of the tongue,0,0
+Malignant neoplasm of the trachea,0,0
+Malignant neoplasm of the urinary tract,0,0
+Malignant neoplasm of the uterus,0,0
+Malignant neoplasm of the vagina,0,0
+Malignant neoplasm of the vulva,0,0
+Malignant neoplasm of ureter,0,0
+Malignant neoplasm of urethra,0,0
+Malignant neuroendocrine tumors,0,0
+Malignant sarcoma-related cancers,0,0
+Mallet finger,0,0
+Malposition and malpresentation of fetus,0,0
+Malposition of heart and cardiac apex,0,0
+Malposition of ureter*,0,0
+Malposition of uterus,0,0
+Mammary duct ectasia,0,0
+Mammographic microcalcification,0,0
+Mandibular hyperplasia,0,0
+Mandibular hypoplasia,0,0
+Mandibulofacial dysostosis*,0,0
+Manganese deficiency*,0,0
+Maple-syrup-urine disease*,0,0
+Marfan syndrome,0,0
+Marker chromosomes*,0,0
+Mast cell,0,0
+Mast cell activation syndrome [MCAS]*,0,0
+Mastodynia,0,0
+Mastoiditis and related conditions,0,0
+Maternal care for abnormality of pelvic organs,0,0
+Maternal care for breech presentation,0,0
+Maternal care for face,0,0
+Maternal care for hydrops fetalis*,0,0
+Maternal care for retroversion of gravid uterus,0,0
+Maternal care for transverse and oblique lie,0,0
+Maternal hypotension syndrome,0,0
+Maternal infections and carrier state in pregnancy,0,0
+Maternal pyrexia during labor,0,0
+Mature B-cell,0,0
+Mature T-Cell,0,0
+Maxillary hyperplasia,0,0
+Maxillary hypoplasia,0,0
+McArdle disease*,0,0
+Measles virus,0,0
+Mechanical ectropion,0,0
+Mechanical entropion,0,0
+Mechanical lagophthalmos,0,0
+Mechanical ptosis of eyelid,0,0
+Meckel diverticulum,0,0
+Meconium plug syndrome,0,0
+Meconium staining,0,0
+Medial epicondylitis (Golfer's elbow),0,0
+Mediastinitis,0,0
+Medium chain acyl CoA dehydrogenase deficiency*,0,0
+Medullary cystic kidney,0,0
+Medulloadrenal hyperfunction,0,0
+Megacolon (other than Hirschsprung's),0,0
+Megakaryoblast,0,0
+Megalencephaly*,0,0
+Megaloblastic anemia,0,0
+Megaloureter*,0,0
+Megavitamin-B6 syndrome*,0,0
+Meibomian gland dysfunction of eyelid*,0,0
+Melanocytic nevi*,0,0
+Melanomas of skin,0,0
+Memory loss,0,0
+Meniere's disease,0,0
+Meningismus,0,0
+Meningitis,0,0
+Meningitis due to other non-infectious causes,0,0
+Meningococcemia,0,0
+Menopausal and postmenopausal disorders,0,0
+Menstrual migraine,0,0
+Mental disorder,0,0
+Mental disorders complicating pregnancy,0,0
+Meralgia paresthetica,0,0
+Merkel cell carcinoma,0,0
+Mesenteric lymphadenitis,0,0
+Mesothelioma*,0,0
+Metabolic disorders of zinc metabolism*,0,0
+Metabolic encephalopathy,0,0
+Metabolic syndrome [Dysmetabolic syndrome X],0,0
+Metachromatic leukodystrophy*,0,0
+Methemoglobinemia,0,0
+Methicillin resistant Staphylococcus aureus,0,0
+Methylenetetrahydrofolate reductase deficiency*,0,0
+Methylmalonic acidemia*,0,0
+Microcephaly,0,0
+Microcheilia,0,0
+Microcytic anemia,0,0
+Microgenia,0,0
+Micronutrient excess,0,0
+Microphthalmos,0,0
+Microscopic colitis*,0,0
+Microscopic hematuria,0,0
+Microstomia,0,0
+Microtia,0,0
+Mid back pain,0,0
+Migraine,0,0
+Migraine with aura,0,0
+Mild cognitive impairment,0,0
+Mild intellectual disabilities,0,0
+Milk allergy,0,0
+Mineral deficiencies,0,0
+Miosis,0,0
+Misplaced ear [Abnormal location of ears]*,0,0
+Missed abortion,0,0
+Mitochondrial disorders,0,0
+Mitral valve disorders,0,0
+Mitral valve insufficiency,0,0
+Mitral valve prolapse*,0,0
+Mitral valve stenosis,0,0
+Mittelschmerz,0,0
+Mixed conductive and sensorineural hearing loss,0,0
+Mixed disorder of acid-base balance,0,0
+Mixed hyperlipidemia,0,0
+Mixed receptive-expressive language disorder,0,0
+Moderate intellectual disabilities,0,0
+Moderate to late preterm,0,0
+Molluscum contagiosum,0,0
+Molybdenum deficiency*,0,0
+Monoarthritis,0,0
+Monoclonal gammopathy,0,0
+Monocyte,0,0
+Monocytosis (symptomatic),0,0
+Mononeuritis of lower limb,0,0
+Mononeuritis of upper limb,0,0
+Mononeuropathies,0,0
+Monoplegia,0,0
+Monosomies and chromosomal deletions,0,0
+Mood [affective] disorders,0,0
+Morbid obesity,0,0
+Morphologic lesions in glomerular diseases,0,0
+Motion sickness,0,0
+Motor neuron disease,0,0
+Moyamoya disease,0,0
+Mucocele of salivary gland,0,0
+Mucocutaneous lymph node syndrome [Kawasaki],0,0
+Mucolipidosis IV,0,0
+Mucopolysaccharidoses,0,0
+Mucopolysaccharidosis,0,0
+Mucous polyp of cervix,0,0
+Multi-system degeneration of the autonomic nervous system*,0,0
+Multinodular goiter,0,0
+Multiple congenital exostoses*,0,0
+Multiple congenital malformations,0,0
+Multiple cranial nerve palsies,0,0
+Multiple endocrine neoplasia [MEN] syndromes,0,0
+Multiple endocrine neoplasia [MEN] type I,0,0
+Multiple endocrine neoplasia [MEN] type IIA,0,0
+Multiple endocrine neoplasia [MEN] type IIB,0,0
+Multiple myeloma,0,0
+Multiple myeloma and malignant plasma cell neoplasms,0,0
+Multiple sclerosis,0,0
+Multisystem inflammatory syndrome*,0,0
+Muscle calcification and ossification,0,0
+Muscle carnitine palmitoyltransferase deficiency*,0,0
+Muscle wasting and atrophy,0,0
+Muscle weakness (generalized),0,0
+Muscular disorders of urethra [Detrusor sphincter dyssynergia],0,0
+Muscular dystrophy,0,0
+Myalgia,0,0
+Myasthenia gravis,0,0
+Myasthenia gravis and other myoneural disorders,0,0
+Mycobacteria,0,0
+Mycobacterium leprae [Leprosy],0,0
+Mycobacterium tuberculosis,0,0
+Mycoplasma,0,0
+Mydriasis,0,0
+Myelitis,0,0
+Myelofibrosis,0,0
+Myeloid,0,0
+Myelopathies,0,0
+Myelophthisis,0,0
+Myeloproliferative disorder,0,0
+Myoadenylate deaminase deficiency*,0,0
+Myocardial infarction [Heart attack],0,0
+Myocarditis,0,0
+Myoclonus,0,0
+Myogenic ptosis of eyelid,0,0
+Myoglobinuria,0,0
+Myopathies,0,0
+Myopathy of extraocular muscles,0,0
+Myopia,0,0
+Myositis,0,0
+Myositis ossificans progressiva,0,0
+Myositis ossificans traumatica,0,0
+Myotonia congenita,0,0
+Myotonic chondrodystrophy,0,0
+Myotonic disorders,0,0
+Myotonic muscular dystrophy,0,0
+Myringitis,0,0
+Myxedema*,0,0
+Nail disorders,0,0
+Nail dystrophy*,0,0
+Narcissistic personality disorder,0,0
+Narcolepsy,0,0
+Narcolepsy with cataplexy,0,0
+Nasal congestion*,0,0
+Nasal polyps,0,0
+Nausea,0,0
+Neck sprain,0,0
+Necrosis of artery,0,0
+Necrotizing enterocolitis [NEC],0,0
+Necrotizing enterocolitis [NEC] in newborn,0,0
+Necrotizing fasciitis,0,0
+Neisseria gonorrhea,0,0
+Neisseria meningitidis,0,0
+Nelson's syndrome*,0,0
+Nemaline myopathy*,0,0
+Neonatal aspiration,0,0
+Neonatal bradycardia,0,0
+Neonatal candidiasis,0,0
+Neonatal cardiac dysrhythmia,0,0
+Neonatal cardiac failure*,0,0
+Neonatal cerebral ischemia*,0,0
+Neonatal cerebral leukomalacia,0,0
+Neonatal conjunctivitis and dacryocystitis,0,0
+Neonatal cutaneous hemorrhage,0,0
+Neonatal diabetes mellitus,0,0
+Neonatal disorders of coagulation,0,0
+Neonatal disorders of digestive system,0,0
+Neonatal erythema toxicum*,0,0
+Neonatal gastrointestinal hemorrhage,0,0
+Neonatal hemorrhages,0,0
+Neonatal hypertension*,0,0
+Neonatal hypoglycemia,0,0
+Neonatal jaundice associated with preterm delivery,0,0
+Neonatal jaundice due to excessive hemolysis,0,0
+Neonatal jaundice from hepatocellular damage,0,0
+Neonatal metabolic acidemia,0,0
+Neonatal obstruction of nasolacrimal duct,0,0
+Neonatal tachycardia,0,0
+Neonatal urinary tract infection,0,0
+Nephrogenic diabetes insipidus,0,0
+Nephroptosis,0,0
+Nerve plexus lesions,0,0
+Nerve root and plexus disorders,0,0
+Nerve root lesions,0,0
+Nervousness,0,0
+Neural tube defects and congenital disorders of the spinal cord,0,0
+Neuralgic amyotrophy,0,0
+Neurocognitive disorder*,0,0
+Neurofibromatosis,0,0
+Neurogenic bowel,0,0
+Neurologic neglect syndrome,0,0
+Neuromuscular dysfunction of bladder,0,0
+Neuromyelitis optica,0,0
+Neuronal ceroid lipofuscinosis,0,0
+Neurotrophic keratoconjunctivitis,0,0
+Neutropenia,0,0
+Neutropenia due to infection,0,0
+Neutropenic splenomegaly,0,0
+Neutrophilic and Eosinophilic dermatoses,0,0
+Nevus,0,0
+Newborn affected by complications of placenta,0,0
+Newborn affected by fetal (intrauterine) malnutrition not light or small for gestational age,0,0
+Newborn affected by fetal blood loss,0,0
+Newborn affected by maternal complications of pregnancy,0,0
+Newborn affected by maternal conditions,0,0
+Newborn affected by noxious substances transmitted via placenta or breast milk,0,0
+Newborn affected by other complications of labor and delivery,0,0
+Newborn affected by slow intrauterine growth,0,0
+Newborn esophageal reflux*,0,0
+Newborn light or small for gestational age,0,0
+Nezelof syndrome,0,0
+Niacin deficiency [Vitamin B3],0,0
+Nicotine dependence (current and history of),0,0
+Niemann-Pick disease type A*,0,0
+Niemann-Pick disease type B*,0,0
+Niemann-Pick disease type C*,0,0
+Niemann-Pick disease type D*,0,0
+Niemann-Pick disease*,0,0
+Night blindness,0,0
+Nocturia,0,0
+Nocturnal enuresis,0,0
+Nodular sclerosis Hodgkin lymphoma,0,0
+Nodules of vocal cords*,0,0
+Noise effects on inner ear,0,0
+Non-Hodgkin lymphoma,0,0
+Non-pressure chronic ulcer,0,0
+Nonexuadative (dry) age-related macular degeneration,0,0
+Noninfectious dermatoses of eyelid,0,0
+Noninfective neonatal diarrhea*,0,0
+Noninflammatory disorders of cervix,0,0
+Noninflammatory disorders of ovary,0,0
+Noninflammatory disorders of vagina,0,0
+Noninflammatory disorders of vulva and perineum,0,0
+Nonpyogenic meningitis,0,0
+Nonspecific abnormal electromyogram [EMG],0,0
+Nonspecific abnormal findings in cerebrospinal fluid,0,0
+Nonspecific abnormal findings in stool contents,0,0
+Nonspecific abnormal findings of other body structures,0,0
+Nonspecific abnormal findings on radiological and other examination of musculoskeletal system,0,0
+Nonspecific abnormal results of function study of liver,0,0
+Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH],0,0
+Nonspecific low blood-pressure reading,0,0
+Nonspecific reaction to test for tuberculosis,0,0
+Nonspecific symptoms peculiar to infancy,0,0
+Nonsuicidal self-harm*,0,0
+Nontraumatic Intracranial hemorrhage,0,0
+Nontraumatic extradural hemorrhage,0,0
+Nontraumatic hematoma of soft tissue,0,0
+Nontraumatic intracerebral hemorrhage,0,0
+Nontraumatic slipped upper femoral epiphysis,0,0
+Nontraumatic subarachnoid hemorrhage,0,0
+Nontraumatic subdural hemorrhage,0,0
+Norovirus,0,0
+Nuclear cataract,0,0
+Nystagmus,0,0
+Obesity,0,0
+Obesity hypoventilation syndrome [OHS],0,0
+Obesity or excessive weight gain in pregnancy,0,0
+Obsessive-compulsive disorder,0,0
+Obstetrical embolism,0,0
+Obstruction of Eustachian tube,0,0
+Obstruction of bile duct,0,0
+Obstructive and reflux uropathy,0,0
+Obstructive defects of renal pelvis and ureter,0,0
+Obstructive hydrocephalus,0,0
+Obstructive sleep apnea,0,0
+Occipital neuralgia*,0,0
+Occlusion and stenosis of cerebral arteries,0,0
+Occlusion and stenosis of precerebral arteries,0,0
+Ocular albinism*,0,0
+Ocular hypertension,0,0
+Ocular pain,0,0
+Odontogenic cysts,0,0
+Oligohydramnios,0,0
+Oligomenorrhea,0,0
+Oligospermia,0,0
+Oliguria and anuria,0,0
+Omphalitis of newborn,0,0
+Onycholysis*,0,0
+Open angle glaucoma,0,0
+Ophthalmoplegia,0,0
+Opioid abuse or dependence,0,0
+Opioid use disorders,0,0
+Optic atrophy,0,0
+Optic disc drusen,0,0
+Optic nerve hypoplasia,0,0
+Optic neuritis,0,0
+Optic neuropathy,0,0
+Oral cleft,0,0
+Oral cysts,0,0
+Oral leukoplakia,0,0
+Oral submucosal fibrosis,0,0
+Orbital cysts,0,0
+Orbital edema or congestion,0,0
+Orchitis and epididymitis,0,0
+Orthopnea,0,0
+Orthorubulavirus [Mumps],0,0
+Orthostatic hypotension,0,0
+Osteitis condensans,0,0
+Osteitis deformans [Paget's disease of bone],0,0
+Osteoarthritis,0,0
+Osteoarthritis of more than one site,0,0
+Osteochondritis dissecans,0,0
+Osteochondrodysplasias,0,0
+Osteochondrosis,0,0
+Osteogenesis imperfecta [genetic],0,0
+Osteolysis*,0,0
+Osteomalacia,0,0
+Osteomyelitis,0,0
+Osteonecrosis,0,0
+Osteopetrosis [genetic],0,0
+Osteophyte*,0,0
+Osteoporosis,0,0
+Otalgia [ear pain],0,0
+Other CNS infection,0,0
+Other abnormal findings in urine,0,0
+Other abnormal immunological findings in serum,0,0
+Other abnormalities of plasma proteins*,0,0
+Other acquired musculoskeletal deformity,0,0
+Other and ill-defined conditions originating in the perinatal period,0,0
+Other and nonspecific abnormal cytological,0,0
+Other and unspecified disorders of metabolism,0,0
+Other and unspecified dorsopathies,0,0
+Other and unspecified nonspecific immunological findings,0,0
+Other arthropathies,0,0
+Other cerebrovascular disease,0,0
+Other chromosomal microdeletions,0,0
+Other complications of the puerperium NEC,0,0
+Other conditions or status of the mother complicating pregnancy,0,0
+Other congenital malformations,0,0
+Other congenital malformations of musculoskeletal system,0,0
+Other digestive system symptoms and diseases,0,0
+Other diseases of biliary tract,0,0
+Other diseases of blood and blood-forming organs,0,0
+Other diseases of inner ear,0,0
+Other diseases of pericardium,0,0
+Other diseases of spinal cord,0,0
+Other diseases of stomach and duodenum,0,0
+Other disorders and symptoms of the musculoskeletal system,0,0
+Other disorders involving the immune mechanism,0,0
+Other disorders of arteries and arterioles,0,0
+Other disorders of binocular movement,0,0
+Other disorders of bladder,0,0
+Other disorders of bone,0,0
+Other disorders of ear,0,0
+Other disorders of eye,0,0
+Other disorders of glossopharyngeal [9th] nerve,0,0
+Other disorders of liver,0,0
+Other disorders of male genital organs,0,0
+Other disorders of nose and nasal sinuses,0,0
+Other disorders of the brain and CNS,0,0
+Other disorders of the circulatory system,0,0
+Other disorders of the eyelids,0,0
+Other disorders of the intestines,0,0
+Other disorders of the kidney and ureters,0,0
+Other disorders of urethra and urinary tract,0,0
+Other disorders of white blood cells,0,0
+Other drug use during pregnancy,0,0
+Other endocrine disorders,0,0
+Other follicular disorders,0,0
+Other hearing abnormality,0,0
+Other malignant neoplasms of lymphoid,0,0
+Other mental and behavioral problems,0,0
+Other non-inflammatory spondylopathy,0,0
+Other nonmalignant breast conditions,0,0
+Other nonthrombocytopenic purpura,0,0
+Other nutritional deficiencies,0,0
+Other respiratory disorders,0,0
+Other signs and symptoms in breast,0,0
+Other skin and subcutaneous disorders,0,0
+Other specified diabetes*,0,0
+Other specified disorders of breast,0,0
+Other specified fungal infections,0,0
+Other specified viral infections,0,0
+Other symptoms and disorders of the respiratory system,0,0
+Other symptoms and disorders of the soft tissue,0,0
+Other symptoms involving nervous  system,0,0
+Other symptoms/disorders or the urinary system,0,0
+Other whole chromosome trisomy*,0,0
+Otitis externa,0,0
+Otitis media,0,0
+Otorrhea,0,0
+Otosclerosis,0,0
+Ototoxic hearing loss*,0,0
+Ovarian cyst,0,0
+Ovarian failure,0,0
+Ovarian hyperfunction,0,0
+Ovarian pregnancy,0,0
+Ovarian streak*,0,0
+Overactive bladder,0,0
+Overweight and obesity,0,0
+PTEN tumor syndrome*,0,0
+Pain and other symptoms associated with female genital organs,0,0
+Pain in ankle and joints of foot,0,0
+Pain in arm*,0,0
+Pain in elbow,0,0
+Pain in foot and toes*,0,0
+Pain in hand and fingers*,0,0
+Pain in hip,0,0
+Pain in joint,0,0
+Pain in joints of hand,0,0
+Pain in knee,0,0
+Pain in leg*,0,0
+Pain in limb,0,0
+Pain in shoulder,0,0
+Pain in wrist*,0,0
+Palindromic rheumatism,0,0
+Pallor,0,0
+Palmar fascial fibromatosis [Dupuytren],0,0
+Palpitations,0,0
+Palsy of conjugate gaze,0,0
+Pancreas transplant,0,0
+Pancreatic steatorrhea,0,0
+Pancytopenia,0,0
+Panic disorder [episodic paroxysmal anxiety],0,0
+Panlobular emphysema*,0,0
+Panniculitis,0,0
+Panuveitis,0,0
+Papilledema,0,0
+Papulosquamous disorders,0,0
+Papyraceous fetus,0,0
+Paraganglioma,0,0
+Parageusia*,0,0
+Parainfluenza virus,0,0
+Paralysis of vocal cords and larynx,0,0
+Paralytic ileus,0,0
+Paralytic lagophthalmos,0,0
+Paralytic ptosis,0,0
+Paralytic strabismus [Neurogenic strabismus],0,0
+Paranoid personality disorder,0,0
+Paraplegia/Diplegia,0,0
+Paraproteinemias,0,0
+Parapsoriasis,0,0
+Parasites,0,0
+Parasomnias,0,0
+Paresthesia of skin*,0,0
+Parkinson's disease (Primary),0,0
+Parkinsonism,0,0
+Paroxysmal atrial fibrillation*,0,0
+Paroxysmal hemicrania,0,0
+Paroxysmal nocturnal hemoglobinuria [Marchiafava-Micheli]*,0,0
+Paroxysmal tachycardia,0,0
+Paroxysmal vertigo,0,0
+Partial epilepsy,0,0
+Partial trisomy*,0,0
+Parvovirus,0,0
+Pasteurella,0,0
+Patent ductus arteriosus,0,0
+Patent foramen ovale*,0,0
+Pathological dislocation of joint,0,0
+Pathological fracture,0,0
+Pathological gambling,0,0
+Pathological resorption of teeth,0,0
+Patient's noncompliance with medical treatment and regimen,0,0
+Patulous Eustachian tube,0,0
+Peanut allergy,0,0
+Pectus carinatum,0,0
+Pediculosis,0,0
+Peliosis hepatis*,0,0
+Pelvic inflammatory disease (PID),0,0
+Pelvic muscle wasting,0,0
+Pelvic organ prolapse and fistulas,0,0
+Pelvic peritoneal adhesions,0,0
+Pemphigoid,0,0
+Pemphigus,0,0
+Pemphigus foliaceous*,0,0
+Pemphigus vulgaris*,0,0
+Penicillin allergy,0,0
+Peptic ulcer,0,0
+Perforation of esophagus,0,0
+Perforation of tympanic membrane,0,0
+Periapical abscess,0,0
+Pericardial effusion (noninflammatory)*,0,0
+Pericarditis,0,0
+Perichondritis and chondritis of pinna,0,0
+Perinatal intestinal perforation,0,0
+Perinatal jaundice,0,0
+Periodic breathing [Cheyne-Stokes],0,0
+Periodic fever syndromes,0,0
+Periodic limb movement disorder,0,0
+Periodic paralysis,0,0
+Periodontal diseases,0,0
+Periodontitis,0,0
+Peripartum cardiomyopathy,0,0
+Peripheral autonomic neuropathy,0,0
+Peripheral neuritis in pregnancy,0,0
+Peripheral opacity of cornea,0,0
+Peripheral retinal degeneration,0,0
+Peripheral vascular disease,0,0
+Peripheral vascular disease NOS [includes PAD],0,0
+Peritoneal abscess,0,0
+Peritonitis,0,0
+Peritonsillar abscess,0,0
+Permanent atrial fibrillation*,0,0
+Peroxisomal disorders,0,0
+Persistent atrial fibrillation*,0,0
+Persistent cloaca*,0,0
+Persistent fetal circulation,0,0
+Persistent headache syndromes,0,0
+Persistent hyperplasia of thymus,0,0
+Persistent left superior vena cava*,0,0
+Personal history of nicotine dependence,0,0
+Personal history of pneumonia (recurrent),0,0
+Personality disorders,0,0
+Pertussis,0,0
+Pervasive developmental disorders,0,0
+Peyronie's disease,0,0
+Phakomatoses,0,0
+Phantom limb (syndrome),0,0
+Pharyngeal abscess,0,0
+Pharyngitis,0,0
+Pheochromocytoma,0,0
+Phlebitis and thrombophlebitis,0,0
+Phobic disorders,0,0
+Phonological disorder*,0,0
+Pica,0,0
+Pigmentary glaucoma,0,0
+Pigmentary iris degeneration,0,0
+Pigmentary retinal dystrophy,0,0
+Pilar and trichodermal cyst,0,0
+Pilonidal cyst,0,0
+Pinguecula,0,0
+Pituitary hyperfunction,0,0
+Pituitary-dependent Cushing's disease*,0,0
+Pityriasis,0,0
+Pityriasis versicolor,0,0
+Placenta accreta*,0,0
+Placenta previa,0,0
+Placental disorders,0,0
+Placental infarction*,0,0
+Placental insufficiency,0,0
+Placental transfusion syndromes*,0,0
+Plagiocephaly*,0,0
+Plantar fascial fibromatosis [Plantar fasciitis],0,0
+Plantar wart,0,0
+Plasma cell,0,0
+Plasmacytosis,0,0
+Plasminogen deficiency*,0,0
+Plasmodium [Malaria],0,0
+Plegia and unspecified paralysis,0,0
+Pleurisy,0,0
+Pleurodynia*,0,0
+Plica syndrome,0,0
+Plicated tongue,0,0
+Pneumoconiosis,0,0
+Pneumocystosis,0,0
+Pneumonia due to Pseudomonas,0,0
+Pneumonia due to Streptococcus pneumoniae,0,0
+Pneumonia due to fungus,0,0
+Pneumothorax and air leak,0,0
+Poliovirus,0,0
+Polyarteritis nodosa,0,0
+Polyarteritis nodosa and related conditions,0,0
+Polyarthritis,0,0
+Polyclonal hypergammaglobulinemia,0,0
+Polycystic kidney disease,0,0
+Polycystic ovary syndrome,0,0
+Polycythemia neonatorum,0,0
+Polycythemia vera,0,0
+Polycythemias,0,0
+Polydactyly,0,0
+Polydipsia,0,0
+Polyglandular dysfunction,0,0
+Polyglandular hyperfunction*,0,0
+Polyhydramnios,0,0
+Polymyalgia rheumatica,0,0
+Polymyositis,0,0
+Polyneuropathies,0,0
+Polyneuropathy related to infections,0,0
+Polyostotic fibrous dysplasia,0,0
+Polyp of corpus uteri,0,0
+Polyp of female genital organs,0,0
+Polyp of vocal cord and larynx,0,0
+Polyphagia,0,0
+Pompe disease*,0,0
+Poor fetal growth and uterine size date discrepancy,0,0
+Porphyria cutanea tarda*,0,0
+Portal hypertension,0,0
+Portal vein thrombosis,0,0
+Post COVID-19 condition*,0,0
+Post-term infant (>40 weeks),0,0
+Post-traumatic headache,0,0
+Post-traumatic seizures,0,0
+Postablative ovarian failure,0,0
+Postcoital bleeding,0,0
+Postconcussion syndrome,0,0
+Posterior reversible encephalopathy syndrome*,0,0
+Posterior subcapsular polar cataract,0,0
+Posterior tibial tendinitis,0,0
+Postmenopausal bleeding,0,0
+Postnasal drip,0,0
+Postpartum acute kidney failure,0,0
+Postpartum depression*,0,0
+Postpartum hemorrhage,0,0
+Postpartum mood disturbance*,0,0
+Postprocedural adrenocortical (-medullary) hypofunction*,0,0
+Posttraumatic stress disorder,0,0
+Postural orthostatic tachycardia syndrome [POTS]*,0,0
+Postviral fatigue syndrome*,0,0
+Poxvirus,0,0
+Prader-Willi syndrome,0,0
+Pre-excitation syndrome [Anomalous atrioventricular excitation],0,0
+Pre-existing diabetes mellitus in pregnancy*,0,0
+Pre-existing hypertension complicating pregnancy,0,0
+Preauricular sinus and cyst,0,0
+Precipitate labor,0,0
+Precipitous drop in hematocrit,0,0
+Precocious puberty,0,0
+Precordial pain,0,0
+Prediabetes*,0,0
+Preeclampsia and eclampsia,0,0
+Pregnancy related renal disease,0,0
+Premature depolarization [Premature beats],0,0
+Premature menopause,0,0
+Premature rupture of membranes,0,0
+Premature separation of placenta [abruptio placentae],0,0
+Premenstrual dysphoric disorder,0,0
+Presbyopia,0,0
+Presence of cardiac defibrillator,0,0
+Presence of cardiac device,0,0
+Presence of cardiac pacemaker,0,0
+Pressure ulcer,0,0
+Preterm labor (including history of),0,0
+Preterm labor with preterm delivery,0,0
+Priapism,0,0
+Prickly heat and miliaria,0,0
+Primary biliary cirrhosis*,0,0
+Primary carnitine deficiency,0,0
+Primary disorders of muscles,0,0
+Primary focal hyperhidrosis,0,0
+Primary hyperoxaluria*,0,0
+Primary immunodeficiencies,0,0
+Primary insulin-like growth factor-1 (IGF-1) deficiency*,0,0
+Primary lateral sclerosis,0,0
+Primary pulmonary hypertension,0,0
+Primary sclerosing cholangitis*,0,0
+Primary thrombophilia,0,0
+Prion diseases,0,0
+Problems associated with amniotic cavity and membranes,0,0
+Problems related to lifestyle,0,0
+Profound intellectual disabilities,0,0
+Progressive bulbar palsy,0,0
+Progressive diaphyseal dysplasia [Multiple epiphyseal dysplasia],0,0
+Progressive high (degenerative) myopia,0,0
+Progressive multifocal leukoencephalopathy,0,0
+Progressive spinal muscle atrophy*,0,0
+Progressive supranuclear ophthalmoplegia [Steele-Richardson-Olszewski]*,0,0
+Prolapse of cord complicating labor and delivery,0,0
+Prominent ear [Protruding ear]*,0,0
+Propionic acidemia*,0,0
+Prostatitis,0,0
+Protein-calorie malnutrition,0,0
+Protein-deficiency anemia,0,0
+Proteinuria,0,0
+Proteus,0,0
+Prothrombin gene mutation*,0,0
+Protrusio acetabuli,0,0
+Prune belly syndrome,0,0
+Prurigo,0,0
+Pruritic urticarial papules and plaques of pregnancy (PUPPP)*,0,0
+Pruritus,0,0
+Pseudobulbar affect,0,0
+Pseudohypoparathyroidism*,0,0
+Pseudomonas,0,0
+Pseudopapilledema of optic disc,0,0
+Pseudosarcomatous fibromatosis [Nodular fasciitis]*,0,0
+Psoriasis,0,0
+Psoriasis vulgaris*,0,0
+Psoriatic arthropathy,0,0
+Psychoactive substance abuse,0,0
+Psychoactive substance dependance,0,0
+Psychoactive substance related disorders,0,0
+Psychoactive substance withdrawal,0,0
+Psychomotor deficit,0,0
+Psychotic disorder,0,0
+Pterygium of eye,0,0
+Ptosis of eyelid,0,0
+Puckering of macula,0,0
+Puerperal infection or fever,0,0
+Pulmonary alveolar microlithiasis,0,0
+Pulmonary arteriovenous malformation,0,0
+Pulmonary artery coarctation and atresia,0,0
+Pulmonary collapse [Atelectasis],0,0
+Pulmonary eosinophilia,0,0
+Pulmonary heart disease,0,0
+Pulmonary hemorrhage in infants,0,0
+Pulmonary hypertension of newborn*,0,0
+Pulmonary insufficiency and acute respiratory distress syndrome,0,0
+Pulmonary tuberculosis,0,0
+Pulmonary valve disorders,0,0
+Pulmonary valve insufficiency*,0,0
+Pulmonary valve stenosis,0,0
+Pulpitis,0,0
+Pulsatile tinnitus*,0,0
+Punctate keratitis,0,0
+Pupillary abnormalities,0,0
+Pure hypercholesterolemia,0,0
+Pure hyperglyceridemia,0,0
+Purine nucleoside phosphorylase [PNP] deficiency*,0,0
+Pyloric stenosis,0,0
+Pyoderma,0,0
+Pyoderma gangrenosum,0,0
+Pyogenic arthritis [Septic arthritis],0,0
+Pyogenic granuloma of skin and subcutaneous tissue,0,0
+Pyothorax (empyema),0,0
+Pyridoxine deficiency [Vitamin B6],0,0
+Pyuria*,0,0
+Quadriplegia,0,0
+Qualitative platelet defects,0,0
+REM sleep behavior disorder,0,0
+Radial styloid tenosynovitis [de Quervain],0,0
+Radiculopathy,0,0
+Raised antibody titer*,0,0
+Rash and other nonspecific skin eruption,0,0
+Raynaud's syndrome,0,0
+Reaction to severe stress,0,0
+Rectal prolapse,0,0
+Recurrent and persistent hematuria*,0,0
+Recurrent dislocation of joint,0,0
+Recurrent erosion of cornea,0,0
+Recurrent isolated sleep paralysis,0,0
+Recurrent oral aphthae [Recurrent aphthous stomatitis],0,0
+Recurrent pregnancy loss,0,0
+Reduction defects of limb,0,0
+Reduction defects of lower limb,0,0
+Reduction defects of upper limb,0,0
+Redundant prepuce and phimosis,0,0
+Refsum's disease,0,0
+Reiter's disease [Reactive arthritis],0,0
+Relapsing polychondritis*,0,0
+Renal agenesis*,0,0
+Renal and perinephric abscess,0,0
+Renal colic,0,0
+Renal dialysis,0,0
+Renal dysplasia,0,0
+Renal failure,0,0
+Renal hypoplasia*,0,0
+Renal hypoplasia/aplasia,0,0
+Renal osteodystrophy,0,0
+Renal sclerosis,0,0
+Renal tubulo-interstitial diseases,0,0
+Renovascular hypertension,0,0
+Repeated falls*,0,0
+Resistance to beta lactam antibiotics,0,0
+Resistance to penicillins,0,0
+Respiratory arrest,0,0
+Respiratory bronchiolitis interstitial lung disease [RBILD],0,0
+Respiratory conditions of fetus and newborn,0,0
+Respiratory distress of newborn,0,0
+Respiratory distress syndrome of newborn,0,0
+Respiratory failure,0,0
+Respiratory failure of newborn,0,0
+Respiratory infection,0,0
+Respiratory syncytial virus,0,0
+Restless legs syndrome,0,0
+Restlessness and agitation*,0,0
+Restrictive cardiomyopathy*,0,0
+Retained placenta or membranes,0,0
+Retention of urine,0,0
+Retinal cysts,0,0
+Retinal detachments and breaks,0,0
+Retinal edema,0,0
+Retinal hemorrhage,0,0
+Retinal ischemia,0,0
+Retinal microaneurysms,0,0
+Retinal neovascularization,0,0
+Retinal occlusions,0,0
+Retinal telangiectasis,0,0
+Retinal vasculitis,0,0
+Retinal vasculopathy,0,0
+Retinopathy,0,0
+Retinopathy of prematurity,0,0
+Retinoschisis,0,0
+Retinoschisis and retinal cysts,0,0
+Retractile testis,0,0
+Retrovirus,0,0
+Rett syndrome*,0,0
+Reye's syndrome,0,0
+Rh isoimmunization of newborn,0,0
+Rhabdomyolysis,0,0
+Rhesus isoimmunization affecting management of mother,0,0
+Rheumatic chorea,0,0
+Rheumatic fever and chronic rheumatic heart diseases,0,0
+Rheumatic heart disease,0,0
+Rheumatic heart failure,0,0
+Rheumatism,0,0
+Rheumatoid arthritis,0,0
+Rheumatoid arthritis and other inflammatory polyarthropathies,0,0
+Rheumatoid arthritis with rheumatoid factor*,0,0
+Rheumatoid arthritis without rheumatoid factor*,0,0
+Rhinitis and nasal congestion,0,0
+Rhinovirus,0,0
+Rhizomelic chondrodysplasia punctata* [genetic],0,0
+Riboflavin deficiency [Vitamin B2],0,0
+Rickettsia,0,0
+Rieger's anomaly*,0,0
+Right aortic arch*,0,0
+Right bundle branch block,0,0
+Right heart failure*,0,0
+Ring chromosome*,0,0
+Rosacea,0,0
+Rotator cuff (capsule) sprain,0,0
+Rotator cuff tear or rupture,0,0
+Rotavirus,0,0
+Round hole of retina without detachment,0,0
+Rubella,0,0
+Rupture of artery,0,0
+Rupture of muscle (nontraumatic),0,0
+Rupture of uterus,0,0
+Rupture of uterus during labor,0,0
+Ruptured aortic aneurysm,0,0
+Ruvalcaba-Myhre-Smith syndrome*,0,0
+SYNGAP1-related intellectual disability*,0,0
+Saccadic eye movements,0,0
+Sacrococcygeal disorders,0,0
+Sacroiliitis,0,0
+Salmonella,0,0
+Sandhoff disease*,0,0
+Sanfilippo mucopolysaccharidoses*,0,0
+Sarcopenia*,0,0
+Sars-CoV-2*,0,0
+Scabies,0,0
+Scar conditions and fibrosis of skin,0,0
+Scarlet fever,0,0
+Scarring hair loss*,0,0
+Scheie's syndrome [MPS Is]*,0,0
+Schizoaffective disorder,0,0
+Schizoid personality disorder,0,0
+Schizophrenia,0,0
+Schmorl's nodes,0,0
+Schwannomatosis,0,0
+Sciatica,0,0
+Scleral ectasia,0,0
+Scleral staphyloma,0,0
+Sclerema neonatorum,0,0
+Scleritis,0,0
+Scotoma,0,0
+Scrotal pain*,0,0
+Scrotal transposition,0,0
+Scrotal varices [Varicocele],0,0
+Seafood allergy,0,0
+Seasonal allergic rhinitis,0,0
+Sebaceous cyst [Epidermal cyst],0,0
+Seborrheic dermatitis,0,0
+Seborrheic infantile dermatitis,0,0
+Seborrheic keratosis,0,0
+Secondary diabetes,0,0
+Secondary hyperparathyroidism,0,0
+Secondary hypertension,0,0
+Secondary hypothyroidism,0,0
+Secondary malignant neoplasm,0,0
+Secondary polycythemia,0,0
+Secondary thrombocytopenia,0,0
+Sedative,0,0
+Segmental and somatic dysfunction,0,0
+Selective deficiency of immunoglobulin A [IgA],0,0
+Selective deficiency of immunoglobulin G [IgG] subclasses*,0,0
+Selective deficiency of immunoglobulin M [IgM],0,0
+Senile corneal changes including arcus senilis,0,0
+Sensorineural hearing loss,0,0
+Separation of muscle (nontraumatic),0,0
+Septic shock,0,0
+Septo-optic dysplasia of brain*,0,0
+Sequelae of cancer,0,0
+Sequestration of lung [Pulmonary sequestration]*,0,0
+Serous retinal detachment,0,0
+Serratia,0,0
+Severe combined immunodeficiency [SCID]*,0,0
+Severe combined immunodeficiency due to adenosine deaminase deficiency*,0,0
+Severe intellectual disabilities,0,0
+Severe pre-eclampsia,0,0
+Sex chromosome anomalies,0,0
+Sexual dysfunction and disorders,0,0
+Sexually transmitted disease,0,0
+Shigella,0,0
+Shock,0,0
+Short chain acyl CoA dehydrogenase deficiency*,0,0
+Short cord complicating labor and delivery,0,0
+Short stature,0,0
+Sialoadenitis,0,0
+Sialolithiasis,0,0
+Sicca syndrome [Sjogren syndrome],0,0
+Sick sinus syndrome*,0,0
+Sick-euthyroid syndrome,0,0
+Sickle cell anemia (Hb-SS),0,0
+Sickle-cell disorders,0,0
+Sickle-cell thalassemia,0,0
+Sideroblastic anemia,0,0
+Signs and symptoms involving emotional state,0,0
+Sinoatrial node dysfunction,0,0
+Situs inversus,0,0
+Sixth [abducent] nerve palsy,0,0
+Skeletal fluorosis*,0,0
+Skin changes due to chronic exposure to nonionizing radiation,0,0
+Skin symptoms,0,0
+Skull and face fracture,0,0
+Sleep apnea,0,0
+Sleep disorders,0,0
+Sleep disturbances,0,0
+Sleep related bruxism,0,0
+Sleep related leg cramps,0,0
+Sleep related movement disorders,0,0
+Sleep terrors [night terrors]*,0,0
+Sleepwalking [somnambulism]*,0,0
+Slurred speech*,0,0
+Small kidney,0,0
+Smith-Lemli-Opitz syndrome*,0,0
+Snoring*,0,0
+Social phobia,0,0
+Solitary pulmonary nodule,0,0
+Spasm of muscle,0,0
+Spastic cerebral palsy*,0,0
+Spastic ectropion,0,0
+Spastic entropion,0,0
+Spastic hemiplegia,0,0
+Specific developmental disorder of motor function,0,0
+Specific developmental disorders of scholastic skills,0,0
+Specified cognitive deficit,0,0
+Speech and language developmental delay,0,0
+Speech disturbance,0,0
+Spermatocele,0,0
+Spherophakia*,0,0
+Spina bifida,0,0
+Spina bifida occulta,0,0
+Spinal cord compression*,0,0
+Spinal disc displacement (herniation),0,0
+Spinal enthesopathy,0,0
+Spinal instabilities*,0,0
+Spinal muscular atrophy,0,0
+Spinal osteochondrosis,0,0
+Spinal stenosis,0,0
+Spirillum,0,0
+Spondyloepiphyseal dysplasia*,0,0
+Spondylolisthesis,0,0
+Spondylolysis,0,0
+Spontaneous abortion,0,0
+Spontaneous ecchymoses,0,0
+Spontaneous pneumothorax,0,0
+Spontaneous rupture of synovium and tendon,0,0
+Spotted fever,0,0
+Spotting complicating pregnancy,0,0
+Sprains and strains,0,0
+Sprains and strains of ankle and foot,0,0
+Sprains and strains of elbow and forearm,0,0
+Sprains and strains of hip and thigh,0,0
+Sprains and strains of knee and leg,0,0
+Sprains and strains of shoulder and upper arm,0,0
+Sprains and strains of wrist and hand,0,0
+Squamous blepharitis,0,0
+Squamous cell carcinoma of the skin,0,0
+Staphylococcal scalded skin syndrome [Ritter's disease],0,0
+Staphylococcus,0,0
+Staphylococcus aureus,0,0
+Steatocystoma multiplex*,0,0
+Stem cell transplant,0,0
+Stenosis and insufficiency of lacrimal passages,0,0
+Stenosis of anus and rectum,0,0
+Stenosis of external ear canal,0,0
+Stenosis of larynx,0,0
+Stenosis of pulmonary artery*,0,0
+Stereotyped movement disorders,0,0
+Stevens-Johnson syndrome and Toxic epidermal necrolysis,0,0
+Stiff-man syndrome,0,0
+Stiffness of joint,0,0
+Stimulant abuse or dependance,0,0
+Stimulant use disorders,0,0
+Stomatitis,0,0
+Strabismus,0,0
+Streptobacillus,0,0
+Streptococcal tonsillitis/pharyngitis,0,0
+Streptococcus,0,0
+Streptococcus B carrier,0,0
+Streptococcus pneumoniae,0,0
+Stress fracture,0,0
+Stress incontinence,0,0
+Striae atrophicae,0,0
+Stricture and atresia of vagina,0,0
+Stricture and stenosis of cervix,0,0
+Stricture of artery [Arterial stenosis],0,0
+Stricture or kinking of ureter,0,0
+Stridor,0,0
+Stroke and transient cerebral ischemic attacks,0,0
+Subacute thyroiditis,0,0
+Subcorneal pustular dermatosis,0,0
+Sucrase-isomaltase deficiency*,0,0
+Sudden idiopathic hearing loss,0,0
+Sudden or transient visual loss,0,0
+Suicidal ideations,0,0
+Suicide and self-inflicted harm,0,0
+Sulfatase deficiency*,0,0
+Sunburn,0,0
+Superior glenoid labrum lesion,0,0
+Supernumerary teeth,0,0
+Supraglottitis,0,0
+Supraventricular tachycardia,0,0
+Surfactant mutations of the lung,0,0
+Swan-neck deformity,0,0
+Symbolic dysfunctions,0,0
+Symptomatic menopause,0,0
+Symptoms and signs concerning food and fluid intake,0,0
+Symptoms and signs involving appearance and behavior*,0,0
+Symptoms and signs involving cognitive functions and awareness,0,0
+Symptoms involving digestive system,0,0
+Symptoms involving female genital tract,0,0
+Symptoms related to joints,0,0
+Symptoms related to mental disorders,0,0
+Syncope and collapse,0,0
+Syndactyly,0,0
+Syndrome of inappropriate secretion of antidiuretic hormone,0,0
+Synovial hypertrophy*,0,0
+Synoviopathy and bursopathy,0,0
+Synovitis and tenosynovitis,0,0
+Syphilis complicating pregnancy,0,0
+Syringomyelia and syringobulbia,0,0
+Systemic atrophies primarily affecting the central nervous system,0,0
+Systemic inflammatory response syndrome,0,0
+Systemic lupus erythematosus [SLE],0,0
+Systemic sclerosis,0,0
+Systemic vasculitis,0,0
+Systolic heart failure,0,0
+T-cell lymphoma,0,0
+Tachypnea,0,0
+Takotsubo syndrome [Stress cardiomyopathy],0,0
+Tall stature,0,0
+Tay-Sachs disease*,0,0
+Teething syndrome,0,0
+Telogen effluvium,0,0
+Temporal sclerosis,0,0
+Temporomandibular joint disorders,0,0
+Temporomandibular joint disorders articular disc disorder (reducing or non-reducing),0,0
+Tendinitis,0,0
+Tension headache,0,0
+Testicular dysfunction,0,0
+Testicular hyperfunction,0,0
+Testicular hypofunction,0,0
+Testicular limpoma,0,0
+Tetany,0,0
+Tetralogy of Fallot,0,0
+Thalassemia,0,0
+Thalassemia minor,0,0
+Thanatophoric short stature*,0,0
+Thiamine deficiency [Vitamin B1],0,0
+Third [oculomotor] nerve palsy,0,0
+Thoracic aneurysm,0,0
+Thoracoabdominal aortic aneurysm,0,0
+Thoracogenic scoliosis,0,0
+Threatened abortion,0,0
+Threatened premature labor,0,0
+Throat pain,0,0
+Thromboangiitis obliterans [Buerger's disease],0,0
+Thrombocytopenia,0,0
+Thrombocytosis*,0,0
+Thrombosis of cerebral or precerebral arteries,0,0
+Thrombotic conditions of pregnancy,0,0
+Thrombotic microangiopathy,0,0
+Thunderclap headache,0,0
+Thyroid dysfunction complicating pregnancy,0,0
+Thyroiditis,0,0
+Thyrotoxicosis [hyperthyroidism],0,0
+Tics and tic disorders,0,0
+Tics of organic origin,0,0
+Tinnitus,0,0
+Tobacco use during pregnancy,0,0
+Tonic pupil,0,0
+Tonsillitis and adenoiditis,0,0
+Torsades de pointes*,0,0
+Torsion of ovary,0,0
+Torsion of testis,0,0
+Torticollis,0,0
+Tourette's disorder,0,0
+Toxic encephalopathy,0,0
+Toxic erythema,0,0
+Toxic gastroenteritis and colitis,0,0
+Toxic maculopathy of retina,0,0
+Toxic myoneural disorders,0,0
+Toxic myopathy,0,0
+Toxic polyneuropathy,0,0
+Toxic shock syndrome,0,0
+Toxicology findings,0,0
+Toxoplasmosis,0,0
+Toxoplasmosis meningoencephalitis,0,0
+Tracheoesophageal fistula,0,0
+Traction detachment of retina,0,0
+Transcobalamin II deficiency*,0,0
+Transient alteration of awareness,0,0
+Transient cerebral ischemic attack [TIA],0,0
+Transient global amnesia,0,0
+Transient ischemic deafness,0,0
+Transient neonatal myasthenia gravis,0,0
+Transient neonatal neutropenia,0,0
+Transient neonatal thrombocytopenia,0,0
+Transient paralysis,0,0
+Transient retinal arterial occlusion [Amaurosis fugax],0,0
+Transient synovitis*,0,0
+Transient tachypnea of newborn,0,0
+Transient tic disorder,0,0
+Transitory disorders of carbohydrate metabolism specific to newborn,0,0
+Transitory electrolyte disturbances of newborn,0,0
+Transitory hyperammonemia of newborn*,0,0
+Transitory ileus of newborn,0,0
+Transitory neonatal disorders of calcium and magnesium metabolism,0,0
+Transitory neonatal electrolyte and metabolic disturbances,0,0
+Transitory neonatal endocrine disorders,0,0
+Transitory tyrosinemia of newborn*,0,0
+Transplated organ,0,0
+Transposition of great vessels [TGA],0,0
+Traumatic arthropathy,0,0
+Tree nut allergy,0,0
+Tremor,0,0
+Treponema carateum,0,0
+Treponema pallidum [syphilis],0,0
+Trichiasis of eyelid without entropion,0,0
+Trichomoniasis,0,0
+Trichotillomania*,0,0
+Tricuspid value insufficiency*,0,0
+Tricuspid value stenosis*,0,0
+Tricuspid valve disorders,0,0
+Trigeminal nerve disorders [CN5],0,0
+Trigeminal neuralgia,0,0
+Trigger finger,0,0
+Trimethylaminuria*,0,0
+Trisomies,0,0
+Trisomy 13 (Patau's syndrome),0,0
+Trisomy 18 (Edwards' syndrome),0,0
+Tropheryma,0,0
+Tubal pregnancy,0,0
+Tuberous sclerosis,0,0
+Turner's syndrome,0,0
+Tympanosclerosis,0,0
+Type 1 diabetes,0,0
+Type 2 diabetes,0,0
+Typical atrial flutter*,0,0
+Tyrosinemia*,0,0
+Ulceration of the lower GI tract,0,0
+Ulcerative blepharitis,0,0
+Ulcerative colitis,0,0
+Umbilical cord complications,0,0
+Umbilical granuloma*,0,0
+Umbilical hemorrhage of newborn,0,0
+Umbilical hernia,0,0
+Underweight,0,0
+Undescended testis [Cryptorchidism],0,0
+Unequal limb length (acquired),0,0
+Unicornate uterus,0,0
+Unilateral hearing loss,0,0
+Unilateral pulmonary emphysema [MacLeod's syndrome]*,0,0
+Uninodular goiter [single thyroid nodule],0,0
+Urethral caruncle,0,0
+Urethral discharge,0,0
+Urethral diverticulum,0,0
+Urethral false passage,0,0
+Urethral fistula,0,0
+Urethral hypermobility/ISD,0,0
+Urethral stricture,0,0
+Urethral stricture due to infecton,0,0
+Urethral syndrome,0,0
+Urethritis,0,0
+Urge incontinence,0,0
+Urinary incontinence and enuresis,0,0
+Urinary tract infection [UTI],0,0
+Urinary urgency,0,0
+Urticaria,0,0
+Urticaria due to cold and heat,0,0
+Uterine inertia,0,0
+Uterine size date discrepancy,0,0
+Uterine/Uterovaginal prolapse,0,0
+Uveitis,0,0
+Vaginal agenesis,0,0
+Vaginal enterocele,0,0
+Vaginismus,0,0
+Vaginitis and vulvovaginitis,0,0
+Vanadium deficiency*,0,0
+Vaping-related disorder*,0,0
+Varicella [chickenpox],0,0
+Varicose veins,0,0
+Varicose veins in pregnancy,0,0
+Varicose veins of lower extremities,0,0
+Vascular Ehlers-Danlos syndrome*,0,0
+Vascular abnormalities of conjunctiva,0,0
+Vascular dementia,0,0
+Vascular disorders of intestine,0,0
+Vascular disorders of iris and ciliary body,0,0
+Vascular disorders of the skin,0,0
+Vascular lesions of cord complicating labor and delivery,0,0
+Vascular myelopathies,0,0
+Vascular ring of aorta*,0,0
+Vasomotor rhinitis*,0,0
+Velamentous insertion of umbilical cord*,0,0
+Venous complications in pregnancy,0,0
+Venous insufficiency (chronic) (peripheral),0,0
+Venous thromboembolism,0,0
+Ventilator associated pneumonia,0,0
+Ventral hernia,0,0
+Ventricular fibrillation,0,0
+Ventricular fibrillation and flutter,0,0
+Ventricular flutter,0,0
+Ventricular premature depolarization*,0,0
+Ventricular septal defect,0,0
+Ventricular tachycardia,0,0
+Vertebro-basilar artery syndrome,0,0
+Vertical strabismus,0,0
+Vertigo,0,0
+Very low birthweight,0,0
+Very low birthweight (1,0,0
+Very preterm,0,0
+Vesical fistula,0,0
+Vesicoureteral reflux,0,0
+Vestibular neuronitis,0,0
+Vibratory urticaria,0,0
+Vibrio,0,0
+Villonodular synovitis,0,0
+Viral diseases complicating pregnancy,0,0
+Viral encephalitis,0,0
+Viral enteritis,0,0
+Viral exanthemata NOS,0,0
+Viral hepatitis complicating pregnancy*,0,0
+Viral hepatitits,0,0
+Viral infections,0,0
+Viral meningitis,0,0
+Viral pneumonia,0,0
+Visceral leishmaniasis,0,0
+Visual discomfort,0,0
+Visual distortions and subjective visual disturbances,0,0
+Visual disturbances,0,0
+Visual field defects,0,0
+Visual hallucinations,0,0
+Visuospatial deficit,0,0
+Vitamin A deficiency,0,0
+Vitamin B group deficiency,0,0
+Vitamin B12 deficiency,0,0
+Vitamin B12 deficiency anemia due to intrinsic factor deficiency [Pernicious anemia],0,0
+Vitamin C deficiency [Ascorbic acid],0,0
+Vitamin D deficiency,0,0
+Vitamin E deficiency*,0,0
+Vitamin K deficiency,0,0
+Vitamin deficiencies,0,0
+Vitiligo,0,0
+Vitreomacular adhesion,0,0
+Vitreoretinal dystrophy,0,0
+Vitreous degeneration,0,0
+Vitreous hemorrhage,0,0
+Vitreous membranes and strands,0,0
+Vitreous opacities,0,0
+Vitreous prolapse,0,0
+Vogt-Koyanagi-Harada Disease,0,0
+Voice disturbance,0,0
+Volume depletion,0,0
+Volvulus,0,0
+Vomiting of newborn,0,0
+Von Hippel-Lindau syndrome*,0,0
+Von Willebrand's disease,0,0
+Vulval varices,0,0
+Vulvodynia,0,0
+Weakness,0,0
+Webbing of neck,0,0
+Weeks gestation,0,0
+Wegener's granulomatosis,0,0
+Wheelchair dependence,0,0
+White matter disease,0,0
+Whole chromosome monosomy*,0,0
+Wide cranial sutures of newborn*,0,0
+Wild-type transthyretin-related (ATTRwt) amyloidosis*,0,0
+Williams syndrome*,0,0
+Wilson's disease*,0,0
+Wiskott-Aldrich syndrome,0,0
+Wrist drop,0,0
+X-linked ichthyosis*,0,0
+X-linked myotubular myopathy*,0,0
+Xanthelasma of eyelid,0,0
+Xeroderma of eyelid,0,0
+Xeroderma pigmentosum*,0,0
+Xerosis cutis*,0,0
+Yersinia,0,0
+Zellweger syndrome*,0,0
+Zygomycosis,0,0
+von Gierke disease*,0,0

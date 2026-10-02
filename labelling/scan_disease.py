@@ -11,7 +11,6 @@ try:
 except ImportError:
     KeywordProcessor = None
 
-
 # Ignore case only for known headings, not for the generic uppercase-heading rule.
 KNOWN_HEADING = re.compile(
     r"^[ \t]*(FINDINGS?(?:\s+AND\s+IMPRESSION)?|IMPRESSION|"
