@@ -1,12 +1,14 @@
 """Train the five-finding DenseNet backbone for a fixed number of epochs."""
 import csv
 import random
+import sys
 import time
 from pathlib import Path
 
 import numpy as np
 import torch
 from torch.nn import functional as F
+from tqdm import tqdm
 
 try:
     from .cxr_backbone import DISEASES, STATES
@@ -28,18 +30,27 @@ def check_patient_splits(loaders):
             raise ValueError(f"Patient leakage between {first} and {second}.")
 
 
-def run_epoch(model, loader, device, optimizer=None):
+def run_epoch(model, loader, device, optimizer=None, description=None):
     training = optimizer is not None
     model.train(training)
     loss_total = valid_total = correct_total = 0
     confusion = torch.zeros((len(DISEASES), len(STATES), len(STATES)), dtype=torch.long)
+    data_seconds = compute_seconds = 0.0
+    previous_end = time.perf_counter()
     with torch.set_grad_enabled(training):
-        for batch in loader:
+        progress = tqdm(loader, desc=description or ("Train" if training else "Evaluate"),
+                        unit="batch", leave=True, file=sys.stdout,
+                        mininterval=1.0, dynamic_ncols=True)
+        progress.refresh()
+        for batch in progress:
+            batch_start = time.perf_counter()
+            data_seconds += batch_start - previous_end
             images = batch["image"].to(device, non_blocking=True)
             targets = batch["targets"].to(device, non_blocking=True)
             valid = targets != -100
             count = int(valid.sum().item())
             if not count:
+                previous_end = time.perf_counter()
                 continue
             if training:
                 optimizer.zero_grad(set_to_none=True)
@@ -60,10 +71,18 @@ def run_epoch(model, loader, device, optimizer=None):
                 keep = valid[:, disease]
                 encoded = (targets[keep, disease] * len(STATES) + predicted[keep, disease]).detach().cpu()
                 confusion[disease] += torch.bincount(encoded, minlength=len(STATES)**2).reshape(len(STATES), len(STATES))
+            if device.type == "cuda":
+                torch.cuda.synchronize(device)
+            compute_seconds += time.perf_counter() - batch_start
+            progress.set_postfix(loss=f"{loss_total/valid_total:.4f}",
+                                 accuracy=f"{correct_total/valid_total:.1%}",
+                                 data_s=f"{data_seconds:.0f}", compute_s=f"{compute_seconds:.0f}", refresh=False)
+            previous_end = time.perf_counter()
     if not valid_total:
         raise ValueError("No valid disease targets in this epoch.")
     return {"loss": loss_total/valid_total, "accuracy": correct_total/valid_total,
-            "valid_targets": valid_total, "confusion": confusion}
+            "valid_targets": valid_total, "confusion": confusion,
+            "data_seconds": data_seconds, "compute_seconds": compute_seconds}
 
 
 def train_backbone(model, loaders, out_dir, *, epochs=20, learning_rate=1e-4,
@@ -95,8 +114,12 @@ def train_backbone(model, loaders, out_dir, *, epochs=20, learning_rate=1e-4,
         writer.writeheader()
         for epoch in range(1, epochs+1):
             started = time.perf_counter()
-            train = run_epoch(model, loaders["train"], device, optimizer)
-            val = run_epoch(model, loaders["val"], device)
+            print(f"Starting epoch {epoch}/{epochs}: {len(loaders['train'])} training batches, "
+                  f"{len(loaders['val'])} validation batches. Waiting for first batch...", flush=True)
+            train = run_epoch(model, loaders["train"], device, optimizer,
+                              description=f"Epoch {epoch:02d}/{epochs} train")
+            val = run_epoch(model, loaders["val"], device,
+                            description=f"Epoch {epoch:02d}/{epochs} validation")
             record = {"epoch": epoch, "train_loss": train["loss"], "val_loss": val["loss"],
                       "train_accuracy": train["accuracy"], "val_accuracy": val["accuracy"],
                       "seconds": round(time.perf_counter()-started, 2)}
@@ -116,7 +139,7 @@ def train_backbone(model, loaders, out_dir, *, epochs=20, learning_rate=1e-4,
                 "optimizer_state_dict": optimizer.state_dict(), "epoch": epochs,
                 "diseases": list(DISEASES), "states": list(STATES)}, last_path)
     model.load_state_dict(best_state)
-    test = run_epoch(model, loaders["test"], device)
+    test = run_epoch(model, loaders["test"], device, description="Best checkpoint test")
     with (out_dir / "test_metrics.csv").open("w", encoding="utf-8", newline="") as handle:
         writer = csv.DictWriter(handle, fieldnames=["best_epoch", "test_loss", "test_accuracy", "valid_targets"])
         writer.writeheader()
