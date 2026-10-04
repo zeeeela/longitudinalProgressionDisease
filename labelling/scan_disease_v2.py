@@ -1,10 +1,5 @@
 """Provisional report labels using a disease CSV, synonyms, and context rules.
 
-Install FlashText: python -m pip install flashtext
-Example (WSL):
-  python label_cxr_reports.py --vocab unique_diseases.csv --reports \
-    /mnt/c/Users/Zila/Downloads/BN5212/MIMIC-CXR/p10_1/p10 \
-    /mnt/c/Users/Zila/Downloads/BN5212/MIMIC-CXR/p10_2/p10
 
 Optional synonyms CSV columns: alias,disease (disease must exist in the vocabulary).
 Optional --patients CSV columns: Patient or subject_id. IDs can be p10000001

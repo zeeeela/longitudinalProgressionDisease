@@ -22,3 +22,7 @@ MIMIC-CXR/
 *.jpg
 *.jpeg
 *.png
+
+training_outputs/
+
+training_outputs/
