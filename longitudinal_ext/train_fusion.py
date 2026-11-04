@@ -1,5 +1,5 @@
 """Training loop: masked cross-entropy, AdamW, per-epoch cosine LR to final_lr_ratio, best checkpoint by
-validation loss (same protocol as the existing train_paired_progression), optional encoder warm-up freeze."""
+validation loss, optional encoder warm-up freeze."""
 import math
 import random
 import time

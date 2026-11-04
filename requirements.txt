@@ -1,0 +1,19 @@
+# Install the CUDA build of torch/torchvision appropriate to your GPU environment.
+torch
+torchvision
+numpy
+pandas
+scipy
+scikit-learn
+joblib
+pydicom
+Pillow
+matplotlib
+tqdm
+nbclient
+nbformat
+ipykernel
+transformers>=4.57,<5
+torchxrayvision
+open_clip_torch
+timm

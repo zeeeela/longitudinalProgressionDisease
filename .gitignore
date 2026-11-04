@@ -1,28 +1,51 @@
+# Python environments, caches, and local configuration
 __pycache__/
 *.py[cod]
-.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
 .venv/
 venv/
 .env
+.env.*
+!.env.example
+
+# Patient data and generated tables are kept locally
 MIMIC-CXR/
+MIMIC-IV/
 *.dcm
-*.jpg
-*.jpeg
-*.png
-EOFgit init
-cat > .gitignore <<'EOF'
-__pycache__/
-*.py[cod]
+*.dicom
+*.csv
+*.csv.gz
+*.tsv
+*.parquet
+/labelling/manual_review_inventory.md
+
+# Model weights, decoded images, extracted features, and run results
+/training_outputs/
+/extensions_outputs/
+/logs/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+*.npy
+*.npz
+*.pkl
+*.pickle
+*.joblib
+
+# Local archives and notebook autosaves
+/archive/
 .ipynb_checkpoints/
-.venv/
-venv/
-.env
-MIMIC-CXR/
-*.dcm
-*.jpg
-*.jpeg
-*.png
+*.executing.tmp
 
-training_outputs/
+# Generated handover documents
+/docs/*.docx
+/docs/*.pdf
 
-training_outputs/
+# Operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini

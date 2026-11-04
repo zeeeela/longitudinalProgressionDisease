@@ -1,24 +1,27 @@
-# longitudinal_ext
+# Progression experiment modules
 
-Copy this folder to `C:\Users\Zila\Downloads\BN5212\midterm_prognosis\longitudinal_ext\` (next to `model/`, `data_loader/`).
-Use `main_notebook_clean_ext.ipynb` (your notebook + new Section 11).
+Start with [main_notebook_clean_ext_multigpu_local.ipynb](../main_notebook_clean_ext_multigpu_local.ipynb).
+It compares A, A2, and B-F on a shared reviewed image-pair dataset.
 
-Extra packages: `pip install pydicom pillow scikit-learn matplotlib`; encoders as needed:
-`torchxrayvision` (xrv:*), `transformers` (hf:*), `open_clip_torch` (biomedclip), `timm` (timm:*).
-Pretrained weights download on first use (needs internet; on an offline HPC pre-download to TORCH_HOME / HF_HOME).
-
-| file | role |
+| Module | Purpose |
 |---|---|
-| encoders.py | `build_encoder(name)`: DenseNet-ImageNet, TorchXRayVision, RAD-DINO, BiomedCLIP, any timm model |
-| mimic_iv_features.py | time-aligned labs/vitals/fluids/drugs/stay flags per (prior,current) pair + coverage report |
-| pair_data.py | pair dataset, train-only robust scaling, missing indicators, shuffled-tab control |
-| fusion_model.py | shared encoder -> (current-prior) [+ tabular MLP] -> masked 5x3 head |
-| train_fusion.py | masked CE, per-epoch cosine LR, best-val-loss checkpoint, same result files as the notebook |
-| frozen_screen.py | frozen features + PCA + logistic regression for any encoder (fast screening) |
-| tabular_baseline.py | tabular-only logistic regression |
-| experiments.py / reporting.py | `run_experiment(...)`, mean/sd summaries, confusion plots |
+| `encoders.py` | DenseNet, TorchXRayVision, RAD-DINO, BiomedCLIP, and timm encoders |
+| `mimic_iv_features.py` | Study-aligned measurements, changes, medication orders, and care-setting fields |
+| `pair_data.py` | Pair loading, training-only selection/scaling, missing-data flags, and shuffled control |
+| `fusion_model.py` | Image-feature difference, optional clinical branch, and five disease heads |
+| `train_fusion.py` | Masked cross-entropy, AdamW, cosine learning-rate schedule, validation-loss checkpoints |
+| `frozen_screen.py` | Optional frozen encoders with PCA/logistic regression |
+| `tabular_baseline.py` | Optional clinical-only logistic regression |
+| `experiments.py` | Assemble the encoder, loaders, model, and training run |
+| `metrics_io.py` | Metrics, predictions, settings, and confusion matrices |
+| `reporting.py` | Summaries and confusion plots |
 
-Not verified on real data: column names of your pair CSV (auto-detected: `input_*`/`target_*` path columns; override with
-`input_col`/`target_col`), MIMIC-IV file layout (`hosp/`, `icu/`, .csv or .csv.gz), and pretrained-weight loading
-(blocked in my sandbox; the pipeline was tested end-to-end on synthetic DICOMs/MIMIC tables with random weights).
+Each disease has three progression outputs: improving, stable, and worsening.
+A target of `-100` is ignored for that disease. Patient groups are disjoint.
 
+The current feature-coverage threshold is 5% of training pairs. Missing values use
+the training-median equivalent after scaling. Selected non-delta inputs receive
+missing-data flags. Data, caches, pretrained weights, and results stay outside Git.
+
+See the root README for paths, dependencies, and commands, and
+`mimic_feature_validation.md` for feature availability and timing limitations.

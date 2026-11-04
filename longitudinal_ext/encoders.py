@@ -12,12 +12,33 @@ build_encoder(name):
   "biomedclip"                  BiomedCLIP ViT-B/16 image tower (open_clip)
   "timm:<name>"                 any timm backbone, e.g. timm:convnext_small.fb_in22k_ft_in1k
 """
+import os
+import importlib
+import sys
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
 IMAGENET_MEAN, IMAGENET_STD = (0.485, 0.456, 0.406), (0.229, 0.224, 0.225)
 CLIP_MEAN, CLIP_STD = (0.48145466, 0.4578275, 0.40821073), (0.26862954, 0.26130258, 0.27577711)
+
+
+def _import_xrv():
+    """Isolate XRV's legacy absolute `model.utils` import from this repo's model package."""
+    if "torchxrayvision" in sys.modules:
+        return sys.modules["torchxrayvision"]
+    saved_path = sys.path[:]
+    saved = {k: v for k, v in sys.modules.items() if k == "model" or k.startswith("model.")}
+    try:
+        for key in saved:
+            del sys.modules[key]
+        return importlib.import_module("torchxrayvision")
+    finally:
+        for key in list(sys.modules):
+            if key == "model" or key.startswith("model."):
+                del sys.modules[key]
+        sys.modules.update(saved)
+        sys.path[:] = saved_path
 
 
 class ImageEncoder(nn.Module):
@@ -67,11 +88,12 @@ def build_encoder(name, pretrained=True, image_size=None):
 
     if name.startswith("xrv:"):
         try:
-            import torchxrayvision as xrv
+            xrv = _import_xrv()
         except ImportError as e:
             raise ImportError("pip install torchxrayvision") from e
         weights = name.split(":", 1)[1]
-        model = xrv.models.DenseNet(weights=weights if pretrained else None)
+        model = xrv.models.DenseNet(weights=weights if pretrained else None,
+                                   cache_dir=os.environ.get("XRV_CACHE_DIR"))
         return ImageEncoder(name, model, lambda m, x: m.features2(x), "xrv", 224)
 
     if name.startswith("hf:"):

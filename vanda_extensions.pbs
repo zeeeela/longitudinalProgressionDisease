@@ -1,0 +1,25 @@
+#!/bin/bash
+#PBS -N cxr_extensions
+#PBS -l select=1:ncpus=4:mem=24gb:ngpus=1
+#PBS -l walltime=04:00:00
+#PBS -j oe
+
+# Template: confirm queue, account and resource limits on Vanda before submission.
+# Submit from the repo: qsub -q YOUR_GPU_QUEUE -J '0-20%2' vanda_extensions.pbs
+set -euo pipefail
+cd "${PBS_O_WORKDIR:?Submit from the repository directory}"
+PYTHON_BIN="${PYTHON_BIN:-$HOME/miniconda3/envs/longitudinal_progression/bin/python}"
+if [[ ! -x "$PYTHON_BIN" ]]; then
+    echo "Set PYTHON_BIN to your Vanda environment's Python executable." >&2
+    exit 1
+fi
+export OMP_NUM_THREADS=4
+export MKL_NUM_THREADS=4
+export PYTHONUNBUFFERED=1
+mkdir -p logs
+TASK_INDEX="${PBS_ARRAY_INDEX:-0}"
+exec > "logs/${PBS_JOBID}_task${TASK_INDEX}.log" 2>&1
+hostname
+nvidia-smi
+# Respect scheduler GPU visibility; do not overwrite CUDA_VISIBLE_DEVICES.
+"$PYTHON_BIN" -u run_extension.py --task-index "$TASK_INDEX" --batch-size 8 --workers 0
